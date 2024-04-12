@@ -1,0 +1,1278 @@
+﻿types,subjects,propositions,labels
+atom,algebra,Any non-real number's cube is always non-real.,0
+atom,algebra,Real numbers are complex numbers.,0
+atom,algebra,Matrixes are always positive definite.,0
+atom,algebra,The difference of a number and its square is always zero.,0
+atom,algebra,The sum of any two vectors is not always a vector.,0
+atom,algebra,the product of any algebraic number and a transcendental number is always algebraic.,0
+atom,algebra,The sum of any two odd integers is not always even.,0
+atom,algebra,The product of any two radicals is always a radical.,0
+atom,algebra,The product of any number and its square is always one.,0
+atom,algebra,The sum of two complex numbers is always a complex number.,0
+atom,algebra,The product of two irrational numbers is always irrational.,0
+atom,algebra,The difference of two vectors is not always a vector.,0
+atom,algebra,The quotient of any two vectors is always a vector.,0
+atom,algebra,The quotient of any two complex numbers is not always a complex number.,0
+atom,algebra,An equation with non-real coefficients always has non-real solutions.,0
+atom,algebra,The square of any number is always greater than the number.,0
+atom,algebra,The sum of any rational and a radical is always a radical.,0
+atom,algebra,the cube of any number is always greater than the number.,0
+atom,algebra,the product of the roots of a polynomial is always a real number.,0
+atom,algebra,the product of any two matrices is not always a matrix.,0
+atom,algebra,the product of any two vectors is always a vector.,0
+atom,algebra,the product of any two imaginary numbers is always an imaginary number.,0
+atom,algebra,any irrational number is not a real number.,0
+atom,algebra,the product of any non-zero number and its reciprocal is always negative.,0
+atom,algebra,the product of any two irrational numbers is always rational.,0
+atom,algebra,the quotient of any two non-integers is always a non-integer.,0
+atom,algebra,the sum of any two matrices is not always a matrix.,0
+atom,algebra,the product of any two polynomials with different degrees is a polynomial with a degree equal to the sum of the degrees of the factors.,0
+atom,algebra,the quotient of any radical and a non-zero rational is always a radical.,0
+atom,algebra,the product of any two numbers is always negative if at least one of them is negative.,0
+atom,algebra,the square of any number is always less than the number.,0
+atom,algebra,the product of any two non-zero numbers is always non-zero.,0
+atom,algebra,the square of any negative number is always positive.,0
+atom,algebra,the quotient of any algebraic number and a non-zero transcendental number is not always algebraic.,0
+atom,algebra,the integral of any polynomial is not a polynomial.,0
+atom,algebra,the sum of any two even integers is always odd.,0
+atom,algebra,any real number is a transcendental number.,0
+atom,algebra,the sum of a scalar and a matrix is not always a matrix.,0
+atom,algebra,any matrix with a non-zero determinant is not invertible.,0
+atom,algebra,the difference of any two odd integers is always odd.,0
+atom,algebra,the sum of any number and its double is always zero.,0
+atom,algebra,the quotient of any two matrices is always a matrix.,0
+atom,algebra,the sum of any two positive numbers is not always positive.,0
+atom,algebra,the product of any two non-real numbers is always non-real.,0
+atom,algebra,the sum of any two polynomials is always a polynomial.,0
+atom,algebra,the derivative of any polynomial is not a polynomial.,0
+atom,algebra,the product of any radical and a real number is always a real number.,0
+atom,algebra,the sum of any algebraic numbers is not always algebraic.,0
+atom,algebra,the product of any radical and a complex number is always a complex number.,0
+atom,algebra,the sum of any two positive integers is always even.,0
+atom,algebra,the reciprocal of any non-zero number is always greater than the number.,0
+atom,algebra,the sum of any two non-zero numbers is always non-zero.,0
+atom,algebra,the difference of any two matrices is not always a matrix.,0
+atom,algebra,any real number is not an algebraic number.,0
+atom,algebra,the reciprocal of any non-real number is always non-real.,0
+atom,algebra,any complex number is a real number.,0
+atom,algebra,the quotient of any non-zero number and zero is always one.,0
+atom,algebra,the cube of any non-negative number is always positive.,0
+atom,algebra,the product of any two non-integers is always a non-integer.,0
+atom,algebra,the sum of any radical and a real number is not always a real number.,0
+atom,algebra,"the quotient of any two radicals is not always a radical, even when the denominator is not a perfect square.",0
+atom,algebra,any matrix is always positive semi-definite.,0
+atom,algebra,the product of two polynomials with different degrees is a polynomial with a degree greater than or equal to the sum of the degrees of the factors.,0
+atom,algebra,any matrix is always diagonalizable.,0
+atom,algebra,any real number is an irrational number.,0
+atom,algebra,the sum of any two irrational numbers is always rational.,0
+atom,algebra,the quotient of any two polynomials is always a polynomial.,0
+atom,algebra,the product of a matrix and a scalar is not always a matrix.,0
+atom,algebra,the sum of any two complex numbers is always an imaginary number.,0
+atom,algebra,the quotient of any two odd integers is always odd.,0
+atom,algebra,any polynomial function is always continuous.,0
+atom,algebra,any matrix is always invertible.,0
+atom,algebra,the reciprocal of any non-zero number is always positive.,0
+atom,algebra,the difference of any two non-integers is always a non-integer.,0
+atom,algebra,the quotient of any non-zero number and another non-zero number is always non-zero.,0
+atom,algebra,any matrix is always negative semi-definite.,0
+atom,algebra,the square of any non-real number is always non-real.,0
+atom,algebra,the degree of a polynomial is always a positive integer.,0
+atom,algebra,any matrix is always symmetric.,0
+atom,algebra,the product of any algebraic numbers is always algebraic.,0
+atom,algebra,the sum of the roots of a polynomial is always a real number.,0
+atom,algebra,the quotient of any two complex numbers is always an imaginary number.,0
+atom,algebra,the product of any two polynomials is not commutative.,0
+atom,algebra,the quotient of any two polynomials is not a polynomial ( if the denominator is non-zero),0
+atom,algebra,the difference of any two positive numbers is always positive.,0
+atom,algebra,any algebraic number is a real number.,0
+atom,algebra,the cube of any number is always less than the number.,0
+atom,algebra,the product of any two matrices is always a scalar.,0
+atom,algebra,the sum of any two non-integers is always a non-integer.,0
+atom,algebra,the difference of any two polynomials is always a polynomial.,0
+atom,algebra,the quotient of any two even integers is always even.,0
+atom,algebra,the product of any radical and an irrational number is not always irrational.,0
+atom,algebra,the inverse of a matrix is not always a matrix.,0
+atom,algebra,any diagonal matrix is always invertible.,0
+atom,algebra,the sum of any radical and an irrational number is not always irrational.,0
+atom,algebra,any matrix is always negative definite.,0
+atom,algebra,the sum of any two polynomials is not commutative.,0
+atom,algebra,the sum of any radical and a complex number is not always a complex number.,0
+atom,algebra,the product of any two odd integers is always odd.,0
+atom,algebra,the quotient of any irrational number and a non-zero rational number is always irrational.,0
+atom,algebra,the sum of any algebraic number and a transcendental number is always algebraic.,0
+atom,algebra,the inverse of any matrix is always a matrix.,0
+atom,algebra,the quotient of any radical and a non-zero real number is always a real number.,0
+atom,algebra,the product of any matrix and a scalar is always a scalar.,0
+atom,algebra,the sum of any two imaginary numbers is always an imaginary number.,0
+atom,algebra,the sum of any two irrational numbers is always irrational.,0
+atom,algebra,the product of any rational and a radical is always a radical.,0
+atom,algebra,the difference of any two even integers is not always even.,0
+atom,algebra,the value of a variable in an equation is always unique.,0
+atom,algebra,the product of any two complex numbers is always a complex number.,0
+atom,algebra,the difference of any two odd integers is not always even.,0
+atom,algebra,the product of the roots of a polynomial is equal to the coefficient of the linear term of the polynomial.,0
+atom,algebra,the sum of any two non-real numbers is always non-real.,0
+atom,algebra,any equation can be solved by only using addition or subtraction.,0
+atom,algebra,the quotient of any two irrational numbers is always rational.,0
+atom,algebra,the product of any two polynomials is not always a polynomial.,0
+atom,algebra,the product of any two even integers is not always even.,0
+atom,algebra,the product of a scalar and a matrix is not always a matrix,0
+atom,algebra,any polynomial function is always differentiable.,0
+atom,algebra,the degree of a polynomial is always a prime number.,0
+atom,algebra,the reciprocal of any non-zero number is always less than the number.,0
+atom,algebra,the sum of any two matrices is always a scalar.,0
+atom,algebra,the square of any non-negative number is always positive.,0
+atom,algebra,the difference of any two polynomials is not a polynomial.,0
+atom,algebra,the sum of the roots of a polynomial is equal to the constant term of the polynomial.,0
+atom,algebra,"the quotient of any algebraic numbers is not always algebraic, if the denominator is non-zero.",0
+atom,algebra,any equation with a degree greater than 2 always has more than 2 solutions.,0
+atom,algebra,the sum of any two radicals is always a radical.,0
+atom,algebra,the product of any two complex numbers is always an imaginary number.,0
+atom,algebra,any vector is always orthogonal.,0
+atom,algebra,the quotient of any non-real number and another non-real number is always non-real.,0
+atom,algebra,the sum of any two polynomials with different degrees is not a polynomial with a degree equal to the maximum of the degrees of the factors.,0
+atom,algebra,the difference of the squares of a binomial is equal to the product of the binomial’s sum and difference.,1
+atom,algebra,the quotient of any non-zero number and zero is undefined.,1
+atom,algebra,the product of any number and zero is always zero.,1
+atom,algebra,the sum of any two odd integers is always even.,1
+atom,algebra,the difference of any complex number and its conjugate is always purely imaginary.,1
+atom,algebra,the product of any two integers is always even if at least one of them is even.,1
+atom,algebra,the square of any imaginary number is always a real number,1
+atom,algebra,the product of radicals with the same radicand is equal to the radical of the product of the radicands,1
+atom,algebra,the square of the sum of any two real numbers is always greater than or equal to the sum of their squares.,1
+atom,algebra,a radical is in simplest form if the radicand does not contain any perfect square factors.,1
+atom,algebra,the product of any two complex numbers is commutative.,1
+atom,algebra,the leading coefficient of a polynomial is the coefficient of the term with the highest degree,1
+atom,algebra,the quotient of a rational number and a non-zero real number is always a real number.,1
+atom,algebra,the leading coefficient of a constant polynomial is always the constant value.,1
+atom,algebra,the sum of any complex number and its conjugate is always real.,1
+atom,algebra,the imaginary part of the product of any two complex numbers is equal to the product of the real part of the first number and the imaginary part of the second number plus the product of the imaginary part of the first number and the real part of the second number.,1
+atom,algebra,the product of the roots of any polynomial is equal to the constant term of the polynomial divided by the leading coefficient of the polynomial,1
+atom,algebra,the product of the roots of a polynomial is equal to the constant term divided by the coefficient of the highest degree term.,1
+atom,algebra,"the degree of a radical is the index of the radical, or the value outside the radical sign",1
+atom,algebra,the degree of the product of two polynomials is the sum of the degrees of the factors,1
+atom,algebra,"the quotient of any two integers is a rational number, if the denominator is non-zero.",1
+atom,algebra,the square of any positive number is always positive.,1
+atom,algebra,the sum of any rational and a radical is not always a radical,1
+atom,algebra,the sum of a rational number and a real number is always a real number.,1
+atom,algebra,the product of any radical and a real number is always a real number,1
+atom,algebra,the product of a real number and a complex number is always a complex number.,1
+atom,algebra,the sum of the roots of a polynomial with real coefficients is always a real number.,1
+atom,algebra,the quotient of any two rational numbers is a rational number if the denominator is not zero.,1
+atom,algebra,the quotient of any real number and a non-zero irrational number is always an irrational number.,1
+atom,algebra,the product of a real number and a complex number is commutative,1
+atom,algebra,the square of any negative number is always positive.,1
+atom,algebra,the sum of any radical and a real number is always a real number,1
+atom,algebra,the product of any two integers is always an integer.,1
+atom,algebra,the product of any algebraic and a transcendental number is always a transcendental number,1
+atom,algebra,the product of any rational number and an irrational number is always irrational,1
+atom,algebra,"the product of two complex numbers is commutative, when one of them is real.",1
+atom,algebra,the difference of any two imaginary numbers is not always an imaginary number,1
+atom,algebra,"the quotient of any two rational numbers, if the denominator is non-zero, is a rational number",1
+atom,algebra,the product of a rational number and a real number is always a real number.,1
+atom,algebra,the product of any real number and an irrational number is always an irrational number.,1
+atom,algebra,the sum of the squares of a binomial is equal to the square of the sum plus twice the product of the first term and the second term.,1
+atom,algebra,the product of any two irrational numbers is not always irrational,1
+atom,algebra,the product of any two rational numbers is always a rational number.,1
+atom,algebra,the sum of the squares of any two imaginary numbers is always non-positive.,1
+atom,algebra,the degree of a polynomial is always a non-negative integer.,1
+atom,algebra,the product of a real number and an imaginary number is not always imaginary,1
+atom,algebra,"the quotient of any two radicals is a radical, unless the denominator is a perfect square",1
+atom,algebra,the sum of any algebraic and a transcendental number is always transcendental number.,1
+atom,algebra,the quotient of any radical and a non-zero rational is always a radical,1
+atom,algebra,the quotient of any non-zero number and itself is always one.,1
+atom,algebra,the sum of any real number and an irrational number is always an irrational number,1
+atom,algebra,the quotient of a rational number and a non-zero irrational number is not always irrational.,1
+atom,algebra,the dot product of any two vectors is equal to the product of their absolute values times the cosine of the angle between them.,1
+atom,algebra,the product of any non-zero real number and its complex conjugate is always real.,1
+atom,algebra,the square of the sum of any two imaginary numbers is always less than or equal to the sum of their squares,1
+atom,algebra,the product of a complex number and a real number is commutative.,1
+atom,algebra,the square of any non-zero complex number is never zero.,1
+atom,algebra,the sum of any two rational numbers is always a rational number,1
+atom,algebra,the square of any real number is always non-negative.,1
+atom,algebra,the sum of any rational number and an irrational number is always irrational.,1
+atom,algebra,the product of two complex numbers is distributive over addition and subtraction.,1
+atom,algebra,the sum of any two even integers is always even.,1
+atom,algebra,the degree of a polynomial with only one variable is the highest power of that variable,1
+atom,algebra,the quotient of a real number and a non-zero complex number is always a complex number.,1
+atom,algebra,the degree of a polynomial is the highest power of the variable in the polynomial,1
+atom,algebra,the sum of any two imaginary numbers is always an imaginary number,1
+atom,algebra,the product of a complex number and its conjugate is the square of the absolute value.,1
+atom,algebra,the degree of the sum of two polynomials is not always the maximum of the degrees of the summands,1
+atom,algebra,the product of any two radicals is not always a radical,1
+atom,algebra,the product of an imaginary number and a real number is not always an imaginary number,1
+atom,algebra,the product of any radical and  an irrational number is not always irrational,1
+atom,algebra,the difference of a number and itself is always zero.,1
+atom,algebra,a polynomial of odd degree has at least one real root,1
+atom,algebra,the degree of a constant polynomial is always 0.,1
+atom,algebra,the sum of any number and its opposite is always zero.,1
+atom,algebra,the product of any two imaginary numbers is not always an imaginary number,1
+atom,algebra,the product of a real number and i (imaginary unit) is equal to the product of i and the real number times i.,1
+atom,algebra,the square of any complex number is not always non-negative.,1
+atom,algebra,the sum of a rational number and an irrational number is always irrational.,1
+atom,algebra,the sum of any two radicals is not always a radical,1
+atom,algebra,the product of any two polynomials is commutative.,1
+atom,algebra,the product of any rational and a radical is not always a radical ,1
+atom,algebra,the product of any complex number and its conjugate is real non-negative number.,1
+atom,algebra,the product of two consecutive integers is always even.,1
+atom,algebra,the product of any non-zero complex number and its conjugate is always real.,1
+atom,algebra,the product of two positive numbers is always positive.,1
+atom,algebra,a real number is irrational if  it cannot be expressed as a ratio of two integers,1
+atom,algebra,the sum of any two polynomials is a polynomial,1
+atom,algebra,the difference of any two even integers is always even.,1
+atom,algebra,the difference of any two odd integers is always even.,1
+atom,algebra,the product of the roots of a polynomial with real coefficients is always a real number.,1
+atom,algebra,the sum of the squares of any two real numbers is always non-negative.,1
+atom,algebra,the quotient of any algebraic number and a non-zero transcendental number is not always a transcendental number,1
+atom,algebra,the product of any two polynomials is a polynomial,1
+atom,algebra,the sum of any two integers is always an integer.,1
+atom,algebra,the sum of any radical and an irrational number is not always irrational,1
+atom,algebra,the sum of any real number and its opposite is always zero.,1
+atom,algebra,the product of any non-zero complex number and its reciprocal is always one.,1
+atom,algebra,the sum of any real number and an imaginary number is always complex,1
+atom,algebra,the sum of the roots of a polynomial is equal to the negative of the coefficient of the linear term divided by the coefficient of the highest degree term.,1
+atom,algebra,the product of any real number and any complex number is commutative,1
+atom,algebra,"the quotient of any two complex numbers is not commutative, unless  the denominator is real and non-zero.",1
+atom,algebra,the product of a rational number and an irrational number is always irrational.,1
+atom,algebra,the quotient of any number and one is always the original number.,1
+atom,algebra,the sum of any number and zero is always the original number.,1
+atom,algebra,the product of two negative numbers is always positive.,1
+atom,algebra,"the sum of any two complex numbers is commutative, meaning  that the order of the numbers does not affect the result.",1
+atom,algebra,the product of any number and its reciprocal is always one.,1
+atom,algebra,the absolute value of any complex number is equal to the square root of the sum of the squares of the real and imaginary parts.,1
+atom,algebra,the real part of the product of any two complex numbers is equal to the product of the real part of the first number and the real part of the second number minus the product of the imaginary part of the first number and the imaginary part of the second number.,1
+atom,algebra,the product of the roots of any polynomial is equal to the  constant term of the polynomial divided by the coefficient of the highest degree term,1
+atom,algebra,the product of any positive number and negative number is always negative.,1
+atom,algebra,the square of any non-zero number is always positive.,1
+atom,algebra,the product of any two rational numbers is always a rational number,1
+atom,algebra,the square of any non-zero real number is never zero.,1
+atom,arithmetic,the square of 4 is 16,0
+atom,arithmetic,the square root of 16 is 3,0
+atom,arithmetic,the percentage of 50 out of 250 is 20%,0
+atom,arithmetic,the proportion of 4 out of 7 is 0.5714,0
+atom,arithmetic,the proportionality constant of y = 5x is 6.,0
+atom,arithmetic,the cosecant of 150 degrees is 2,0
+atom,arithmetic,the tangent of 60 degrees is 1,0
+atom,arithmetic,the factorial of 9 is 362880,0
+atom,arithmetic,the cube root of 27 is 2,0
+atom,arithmetic,the square root of 25 is 3,0
+atom,arithmetic,the cosine of 300 degrees is 0.5,0
+atom,arithmetic,the sine of 60 degrees is 0.866,0
+atom,arithmetic,the ratio of 5 to 6 is 5/6,0
+atom,arithmetic,"the standard deviation of 3, 5, 7, 9 is 2.58199",0
+atom,arithmetic,the sum of 3 and 5 is 8,0
+atom,arithmetic,the secant of 210 degrees is -1.1547,0
+atom,arithmetic,the absolute value of -6 is 6,0
+atom,arithmetic,"the range of 10, 12, 14, 16 is 6",0
+atom,arithmetic,the cube of 2 is 8,0
+atom,arithmetic,the cotangent of 135 degrees is -1,0
+atom,arithmetic,"the mean of 10, 12, 14, 16 is 13",0
+atom,arithmetic,the quotient of 18 and 2 is 9,0
+atom,arithmetic,the absolute value of -4 is 4,0
+atom,arithmetic,"the mode of 2, 2, 3, 4, 4, 5 is 2 and 4",0
+atom,arithmetic,the cosine of 270 degrees is 0,0
+atom,arithmetic,the modulus of 7 and 4 is 3,0
+atom,arithmetic,the sine of 120 degrees is 0.8660254,0
+atom,arithmetic,"the variance of 8, 10, 12, 14 is 5",0
+atom,arithmetic,the ratio of 5 to 8 is 5:8,0
+atom,arithmetic,"the variance of 6, 8, 10, 12 is 5",0
+atom,arithmetic,the modulus of 8 and 3 is 2,0
+atom,arithmetic,"the median of 9, 10, 11, 12, 13 is 11",0
+atom,arithmetic,"the median of 4, 5, 6, 7, 8 is 6",0
+atom,arithmetic,the cosecant of 45 degrees is 1.4142,0
+atom,arithmetic,the difference between 12 and 8 is 4,0
+atom,arithmetic,the reciprocal of 3 is 0.33333,0
+atom,arithmetic,the square of 2 is 4,0
+atom,arithmetic,"the variance of 4, 6, 8, 10 is 5",0
+atom,arithmetic,the tangent of 315 degrees is -1,0
+atom,arithmetic,the product of 6 and 5 is 30,0
+atom,arithmetic,the exponential value of 3 raised to the power of 3 is 27,0
+atom,arithmetic,the exponential value of 5 raised to the power of 4 is 625,0
+atom,arithmetic,the cube of 3 is 27,0
+atom,arithmetic,"the range of 5, 8, 11, 14 is 9",0
+atom,arithmetic,the modulus of 9 and 4 is 1,0
+atom,arithmetic,the factorial of 7 is 5040,0
+atom,arithmetic,the exponential value of 4 raised to the power of 3 is 64,0
+atom,arithmetic,the proportion of 5 out of 9 is 0.5556,0
+atom,arithmetic,the square root of 36 is 6,0
+atom,arithmetic,the secant of 75 degrees is 3.86370,0
+atom,arithmetic,the cosecant of 180 degrees is undefined,0
+atom,arithmetic,the factorial of 6 is 720,0
+atom,arithmetic,the cube root of 27 is 3,0
+atom,arithmetic,the factorial of 8 is 40320,0
+atom,arithmetic,the cotangent of 60 degrees is 0.577,0
+atom,arithmetic,the proportionality constant of y = 4x is 4,0
+atom,arithmetic,the proportionality constant of y = 2x is 2,0
+atom,arithmetic,"the standard deviation of 4, 6, 8, 10 is 2.44948974278",0
+atom,arithmetic,the cosine of 90 degrees is -1,0
+atom,arithmetic,the exponential value of 2 raised to the power of 4 is 16,0
+atom,arithmetic,the product of 3 and 8 is 25,0
+atom,arithmetic,the cotangent of 150 degrees is 0.577,0
+atom,arithmetic,the quotient of 20 and 2 is 12,0
+atom,arithmetic,the tangent of 225 degrees is -1,0
+atom,arithmetic,the cotangent of 60 degrees is 0,0
+atom,arithmetic,the sine of 150 degrees is 0.866,0
+atom,arithmetic,"the mean of 2, 4, 6, 8 is 6",0
+atom,arithmetic,the percentage of 40 out of 200 is 30%,0
+atom,arithmetic,the reciprocal of 4 is 0.3,0
+atom,arithmetic,the modulus of 11 and 5 is 4,0
+atom,arithmetic,the reciprocal of 2 is 0.3,0
+atom,arithmetic,the proportionality constant of y = 3x is 4.,0
+atom,arithmetic,the logarithm base 10 of 100000 is 2,0
+atom,arithmetic,"the mode of 2, 2, 3, 4, 4, 5 is 3",0
+atom,arithmetic,"the mean of 8, 10, 12, 14 is 12",0
+atom,arithmetic,the square root of 9 is 4,0
+atom,arithmetic,the proportion of 2 out of 7 is 0.2,0
+atom,arithmetic,the secant of 75 degrees is 1,0
+atom,arithmetic,"the mean of 5, 7, 9, 11 is 9",0
+atom,arithmetic,the square of 1 is 0,0
+atom,arithmetic,"the median of 3, 4, 5, 6, 7 is 6",0
+atom,arithmetic,the cosecant of 30 degrees is 1,0
+atom,arithmetic,the percentage of 30 out of 100 is 35%,0
+atom,arithmetic,the reciprocal of 5 is 0.4,0
+atom,arithmetic,the square of 6 is 35,0
+atom,arithmetic,the sum of 6 and 7 is 12,0
+atom,arithmetic,the percentage of 60 out of 300 is 25%,0
+atom,arithmetic,"the mode of 2, 2, 3, 4, 4, 5 is 5",0
+atom,arithmetic,the proportion of 3 out of 5 is 0.7,0
+atom,arithmetic,the secant of 240 degrees is 0.5,0
+atom,arithmetic,the difference between 14 and 7 is 10,0
+atom,arithmetic,the product of 2 and 7 is 15,0
+atom,arithmetic,"the standard deviation of 6, 8, 10, 12 is 2.44948974278",0
+atom,arithmetic,the sum of 5 and 4 is equal to 8,0
+atom,arithmetic,the sum of 4 and 5 is 8,0
+atom,arithmetic,the quotient of 20 and 4 is 6,0
+atom,arithmetic,"the standard deviation of 8, 10, 12, 14 is 2.44948974278",0
+atom,arithmetic,the difference between 10 and 3 is 13,0
+atom,arithmetic,the logarithm base 10 of 100 is 3,0
+atom,arithmetic,"the median of 7, 8, 9, 10, 11 is 10",0
+atom,arithmetic,the cube root of 8 is 3,0
+atom,arithmetic,the difference between 14 and 6 is 9,0
+atom,arithmetic,the sine of 90 degrees is 0,0
+atom,arithmetic,"the range of 20, 22, 24, 26 is 12",0
+atom,arithmetic,the logarithm base 10 of 1000 is 2,0
+atom,arithmetic,the cube of 3 is 9,0
+atom,arithmetic,the tangent of 30 degrees is -0.577,0
+atom,arithmetic,the product of 4 and 9 is 39,0
+atom,arithmetic,the logarithm base 10 of 10000 is 2,0
+atom,arithmetic,the absolute value of -7 is -7,0
+atom,arithmetic,the ratio of 7 to 11 is 11:7,0
+atom,arithmetic,the cube root of 64 is 6,0
+atom,arithmetic,the absolute value of -5 is -5,0
+atom,arithmetic,the ratio of 8 to 14 is 14:8,0
+atom,arithmetic,"the variance of 3, 5, 7, 9 is 8",0
+atom,arithmetic,the cosine of 45 degrees is 1,0
+atom,arithmetic,"the range of 15, 18, 21, 24 is 12",0
+atom,arithmetic,the tangent of 30 degrees is 0.57735026919,1
+atom,arithmetic,the exponential value of 3 raised to the power of 2 is 9,1
+atom,arithmetic,the percentage of 20 out of 100 is 20%,1
+atom,arithmetic,the percentage of 50 out of 250 is 20%,1
+atom,arithmetic,the cube of 3 is 27,1
+atom,arithmetic,"the median of 7, 8, 9, 10, 11 is 9",1
+atom,arithmetic,the factorial of 5 is 120,1
+atom,arithmetic,the quotient of 18 and 3 is 6,1
+atom,arithmetic,the secant of 60 degrees is 2,1
+atom,arithmetic,the absolute value of -6 is 6,1
+atom,arithmetic,the tangent of 225 degrees is 1,1
+atom,arithmetic,the cube root of 27 is 3,1
+atom,arithmetic,"the standard deviation of 6, 8, 10, 12 is 2.2360679774998",1
+atom,arithmetic,"the mode of 2, 2, 2, 3, 4, 4, 5 is 2",1
+atom,arithmetic,the square of 5 is 25,1
+atom,arithmetic,the quotient of 14 and 2 is 7,1
+atom,arithmetic,the absolute value of -4 is 4,1
+atom,arithmetic,"the mode of 2, 2, 3, 4, 4, 4, 5 is 4",1
+atom,arithmetic,the reciprocal of 4 is 0.25,1
+atom,arithmetic,the cube root of 8 is 2,1
+atom,arithmetic,the modulus of 11 and 5 is 1,1
+atom,arithmetic,the reciprocal of 5 is 0.2,1
+atom,arithmetic,the ratio of 8 to 11 is 8:11,1
+atom,arithmetic,the square of 2 is 4,1
+atom,arithmetic,"the standard deviation of 8, 10, 12, 14 is 2.2360679774998",1
+atom,arithmetic,the cosine of 270 degrees is 0,1
+atom,arithmetic,the absolute value of -3 is 3,1
+atom,arithmetic,the ratio of 7 to 9 is 7:9,1
+atom,arithmetic,the product of 5 and 6 is 30,1
+atom,arithmetic,"the range of 15, 18, 21, 24 is 9",1
+atom,arithmetic,the sine of 150 degrees is 0.5,1
+atom,arithmetic,the sum of 3 and 4 is equal to 7,1
+atom,arithmetic,the logarithm base 10 of 100 is 2,1
+atom,arithmetic,the exponential value of 5 raised to the power of 4 is 625,1
+atom,arithmetic,the reciprocal of 3 is 0.333333333333,1
+atom,arithmetic,"the variance of 8, 10, 12, 14 is 5",1
+atom,arithmetic,the cube root of 64 is 4,1
+atom,arithmetic,the modulus of 7 and 3 is 1,1
+atom,arithmetic,the sum of 4 and 5 is 9,1
+atom,arithmetic,the factorial of 7 is 5040,1
+atom,arithmetic,the exponential value of 4 raised to the power of 3 is 64,1
+atom,arithmetic,the cosecant of 30 degrees is 2,1
+atom,arithmetic,the cosine of 0 degrees is 1,1
+atom,arithmetic,the proportionality constant of y = 4x is 4.,1
+atom,arithmetic,the factorial of 6 is 720,1
+atom,arithmetic,the cosine of 90 degrees is 0,1
+atom,arithmetic,the square root of 36 is 6,1
+atom,arithmetic,the cube of 4 is 64,1
+atom,arithmetic,the factorial of 8 is 40320,1
+atom,arithmetic,"the mean of 8, 10, 12, 14 is 11",1
+atom,arithmetic,"the range of 20, 22, 24, 26 is 6",1
+atom,arithmetic,the proportionality constant of y = 5x is 5.,1
+atom,arithmetic,"the variance of 6, 8, 10, 12 is 5",1
+atom,arithmetic,"the median of 9, 10, 11, 12, 13 is 11",1
+atom,arithmetic,the secant of 75 degrees is 3.86370330516,1
+atom,arithmetic,the proportionality constant of y = 2x is 2.,1
+atom,arithmetic,the cosine of 300 degrees is 0.5,1
+atom,arithmetic,the sine of 60 degrees is 0.86602540378,1
+atom,arithmetic,the square root of 25 is 5,1
+atom,arithmetic,the proportion of 4 out of 8 is 0.5,1
+atom,arithmetic,the difference between 14 and 7 is 7,1
+atom,arithmetic,the percentage of 40 out of 200 is 20%,1
+atom,arithmetic,the proportion of 5 out of 10 is 0.5,1
+atom,arithmetic,the sine of 120 degrees is 0.866025404,1
+atom,arithmetic,the proportion of 3 out of 6 is 0.5,1
+atom,arithmetic,"the variance of 2, 4, 6, 8 is 5",1
+atom,arithmetic,the product of 3 and 7 is 21,1
+atom,arithmetic,the cosecant of 150 degrees is 2,1
+atom,arithmetic,"the mean of 10, 12, 14, 16 is 13",1
+atom,arithmetic,the product of 2 and 6 is 12,1
+atom,arithmetic,the cotangent of 45 degrees is 1,1
+atom,arithmetic,the sum of 6 and 7 is 13,1
+atom,arithmetic,the proportionality constant of y = 3x is 3.,1
+atom,arithmetic,the product of 4 and 8 is 32,1
+atom,arithmetic,the logarithm base 10 of 100000 is 5,1
+atom,arithmetic,the square of 1 is 1,1
+atom,arithmetic,"the mean of 5, 7, 9, 11 is 8",1
+atom,arithmetic,the square root of 16 is 4,1
+atom,arithmetic,"the standard deviation of 4, 6, 8, 10 is 2.236",1
+atom,arithmetic,"the standard deviation of 2, 4, 6, 8 is 2.236",1
+atom,arithmetic,the sum of 2 and 3 is 5,1
+atom,arithmetic,the ratio of 3 to 4 is 0.75,1
+atom,arithmetic,the cosecant of 45 degrees is 1.41421356237,1
+atom,arithmetic,the cotangent of 60 degrees is 0.57735026919,1
+atom,arithmetic,the modulus of 9 and 4 is 1,1
+atom,arithmetic,the cosecant of 180 degrees is not exist,1
+atom,arithmetic,the percentage of 60 out of 300 is 20%,1
+atom,arithmetic,"the median of 4, 5, 6, 7, 8 is 6",1
+atom,arithmetic,the quotient of 16 and 4 is 4,1
+atom,arithmetic,the difference between 10 and 5 is 5,1
+atom,arithmetic,the tangent of 315 degrees is -1,1
+atom,arithmetic,the sine of 90 degrees is 1,1
+atom,arithmetic,the reciprocal of 2 is 0.5,1
+atom,arithmetic,the exponential value of 2 raised to the power of 3 is 8,1
+atom,arithmetic,the secant of 240 degrees is -2,1
+atom,arithmetic,the difference between 12 and 6 is 6,1
+atom,arithmetic,the cotangent of 135 degrees is -1,1
+atom,arithmetic,the quotient of 12 and 4 is 3,1
+atom,arithmetic,the cotangent of 150 degrees is -1.7320,1
+atom,arithmetic,the proportion of 2 out of 5 is 0.4,1
+atom,arithmetic,"the mode of 2, 2, 3, 4, 5, 5 is 2 and 5",1
+atom,arithmetic,the modulus of 8 and 3 is 2,1
+atom,arithmetic,the difference between 8 and 3 is 5,1
+atom,arithmetic,"the range of 10, 12, 14, 16 is 6",1
+atom,arithmetic,the cube of 2 is 8,1
+atom,arithmetic,the logarithm base 10 of 10000 is 4,1
+atom,arithmetic,"the median of 2, 3, 4, 5, and 6 is 3.5",1
+atom,arithmetic,the tangent of 45 degrees is 1,1
+atom,arithmetic,"the mean of 3, 4, and 5 is 4",1
+atom,arithmetic,the square root of 9 is 3,1
+atom,arithmetic,the logarithm base 10 of 1000 is 3,1
+atom,arithmetic,the absolute value of -5 is 5,1
+atom,arithmetic,the square of 3 is 9,1
+atom,arithmetic,the ratio of 5 to 7 is 5:7,1
+atom,arithmetic,"the range of 5, 8, 11, 14 is 9",1
+atom,arithmetic,the secant of 210 degrees is -1.41421356237,1
+atom,arithmetic,"the variance of 4, 6, 8, 10 is 8",1
+atom,calculus,integrating a function is always the reverse process of differentiating it,0
+atom,calculus,the only way to approximate definite integrals is by using the trapezoid rule,0
+atom,calculus,the slope of a curve at a point is equal to the derivative of the curve at that point.,0
+atom,calculus,the implicit function theorem only applies to functions of two variables,0
+atom,calculus,the jacobian determinant can only be applied to vector fields,0
+atom,calculus,the hamilton's principle can only be applied to nonconservative systems,0
+atom,calculus,integral of sin(x) is cos(x),0
+atom,calculus,the cauchy's integral theorem only applies to entire functions,0
+atom,calculus,the lie derivative is always nonzero for any vector field,0
+atom,calculus,the stokes' theorem is only applicable for conservative vector fields,0
+atom,calculus,you can always find the antiderivative of a function by using a specific formula.,0
+atom,calculus,all antiderivatives of a function are equal up to a constant,0
+atom,calculus,the integral transform method can only be used to solve certain types of partial differential equations,0
+atom,calculus,the integral of 1/x is equal to ln(x) +c,0
+atom,calculus,the derivative of e^x with respect to x is equal to e^(2x),0
+atom,calculus,every function has an inverse function,0
+atom,calculus,the riemann mapping theorem is only applicable to open subsets of the complex plane.,0
+atom,calculus,the maximum principle only applies to parabolic partial differential equations,0
+atom,calculus,"the derivative of a function always exists, even if the function is not differentiable",0
+atom,calculus,"if a function is not continuous at a point, it is not differentiable at that point",0
+atom,calculus,in complex analysis only functions which are entire can be studied,0
+atom,calculus,the homotopy analysis method can only be applied to linear problems,0
+atom,calculus,the second derivative test only applies to functions of two variables,0
+atom,calculus,a function can have multiple inverse functions,0
+atom,calculus,the homotopy analysis method can only be applied to nonlinear problems,0
+atom,calculus,the only way to solve pdes is by using integral transform methods,0
+atom,calculus,the fundamental theorem of calculus states that the derivative of an integral is always zero.,0
+atom,calculus,the implicit function theorem only applies to functions of four variables,0
+atom,calculus,the riemann sums is the only way to approximate definite integrals,0
+atom,calculus,the riemann mapping theorem is only applicable to simply connected open subsets of the complex plane.,0
+atom,calculus,the only way to solve pdes is by using separation of variables.,0
+atom,calculus,the definite integral is only defined for continuous functions,0
+atom,calculus,the only way to calculate definite integrals is by using the midpoint rule,0
+atom,calculus,the numerical method can only solve linear problems,0
+atom,calculus,the euler-lagrange equations are only applicable to linear systems,0
+atom,calculus,the cauchy's integral theorem only applies to holomorphic functions,0
+atom,calculus,the fundamental theorem of calculus states that the integral of a function over an interval is always equal to the area between the graph of the function and the x-axis over that interval,0
+atom,calculus,the partial derivative of a function with respect to x is always equal to the derivative of the function with respect to x,0
+atom,calculus,the maximum principle only applies to elliptic pdes,0
+atom,calculus,the derivative of log(x) with respect to x is equal to 1/x,0
+atom,calculus,the jacobian matrix is the same as the hessian matrix,0
+atom,calculus,the integral of a constant function is always equal to zero,0
+atom,calculus,the l'hopital's rule can be used to evaluate all types of limits.,0
+atom,calculus,the derivative of a function is not defined at discontinuities,0
+atom,calculus,the schwarz lemma is only valid for functions that are conformal.,0
+atom,calculus,the inverse function theorem is only applicable to functions of three variables,0
+atom,calculus,the only way to solve pdes is by using separation of variables,0
+atom,calculus,the variational iteration method is only applicable to nonlinear ordinary differential equations,0
+atom,calculus,the euler-lagrange equations only apply to first order differential equations,0
+atom,calculus,the morera's theorem only applies to discontinuous functions,0
+atom,calculus,the lie derivative is always equal to the lie bracket,0
+atom,calculus,the derivative of a constant function is always zero.,0
+atom,calculus,the inverse function is always unique,0
+atom,calculus,the implicit function theorem only applies to functions of three variables,0
+atom,calculus,you can always find the global minimum or maximum of a function by simply taking the derivative and setting it equal to zero.,0
+atom,calculus,the limit of a function as x approaches zero is always infinity,0
+atom,calculus,the limit of a function as x approaches infinity is equal to the function's value at x=infinity,0
+atom,calculus,the partial derivative of a function does not exist if the function is not differentiable.,0
+atom,calculus,the chain rule applies only to functions of one variable.,0
+atom,calculus,the limit as x approaches infinity of 1/x is equal to zero.,0
+atom,calculus,the slope of a tangent line is always equal to zero,0
+atom,calculus,the partial derivative of a function can be negative,0
+atom,calculus,the slope of a curve can be negative,0
+atom,calculus,it is impossible to calculate limit of a function where it's not defined.,0
+atom,calculus,the inverse of a function is always unique.,0
+atom,calculus,the hamilton-jacobi theory can only be applied to quantum mechanics,0
+atom,calculus,the jacobian determinant can only be applied to scalar fields,0
+atom,calculus,the maximum principle only applies to hyperbolic pdes,0
+atom,calculus,the double integral can only be used to calculate the area of a region.,0
+atom,calculus,the morera's theorem only applies to functions that are not continuously differentiable,0
+atom,calculus,The jacobian matrix is always invertible.,0
+atom,calculus,Integral of e^x is e^(-x),0
+atom,calculus,"In multivariable calculus, a function that is differentiable in one variable must also be differentiable in all other variables.",0
+atom,calculus,The order of integration can be swapped without changing the result for any double integral.,0
+atom,calculus,The homotopy analysis method can only be applied to nonlinear ordinary differential equations.,0
+atom,calculus,The Schwarz lemma is only valid for functions that are not conformal.,0
+atom,calculus,The separation of variables is only possible for linear partial differential equations.,0
+atom,calculus,Cauchy's integral theorem only applies to meromorphic functions.,0
+atom,calculus,The limit of a function as x approaches infinity is always positive.,0
+atom,calculus,The hessian matrix is always symmetric for all functions.,0
+atom,calculus,The gaussian quadrature is only applicable to polynomials.,0
+atom,calculus,The variational iteration method is only applicable to linear partial differential equations.,0
+atom,calculus,The hamilton-jacobi theory can only be applied to classical mechanics.,0
+atom,calculus,The euler-lagrange equations are only applicable to nonlinear systems.,0
+atom,calculus,Complex analysis only concerns functions defined on the normal plane.,0
+atom,calculus,A function is differentiable at a point if it has a unique tangent line at that point.,0
+atom,calculus,The limit of a function as x approaches infinity is always zero.,0
+atom,calculus,Multivariable functions can never have a local maximum or minimum.,0
+atom,calculus,The derivative of x^2 is x.,0
+atom,calculus,All functions of 2 or more variables can be expressed as a function of only 2 variables.,0
+atom,calculus,The numerical method can only solve linear problems.,0
+atom,calculus,The only way to evaluate limits is by using l'Hopital's rule.,0
+atom,calculus,Morera's theorem only applies to discontinuous functions.,0
+atom,calculus,The euler-lagrange equations are only applicable to first-order differential equations.,0
+atom,calculus,The riemann sum is the only way to approximate definite integrals.,0
+atom,calculus,The definite integral of a function always exists and can be calculated for any function.,0
+atom,calculus,The limit of a function as x approaches zero is always negative.,0
+atom,calculus,Hamilton's principle can only be applied to conservative systems.,0
+atom,calculus,The jacobian matrix is always symmetric.,0
+atom,calculus,The definite integral is only defined for polynomial functions.,0
+atom,calculus,The only way to calculate definite integrals is by using the riemann sums.,0
+atom,calculus,The antiderivative of a function is the same as the derivative of the function.,0
+atom,calculus,The euler's theorem only applies to homogeneous functions of the first degree.,0
+atom,calculus,The inverse function theorem is only applicable to functions of four variables.,0
+atom,calculus,the second derivative test always tells you the nature of a critical point of a function.,0
+atom,calculus,a function is differentiable everywhere if it is continuous everywhere.,0
+atom,calculus,it's impossible to calculate the limit of function at a point where function is not defined,0
+atom,calculus,the inverse function theorem is only applicable to functions of one variable,0
+atom,calculus,the lie derivative is always zero for any vector field,0
+atom,calculus,the numerical method can only solve nonlinear problems,0
+atom,calculus,the trapezoidal rule is a method to approximate definite integrals by dividing the interval of integration into smaller subintervals and then using the trapezoids to approximate the area under the curve.,1
+atom,calculus,the hamilton-jacobi equation is a partial differential equation that is useful in solving certain types of problems in classical mechanics and optics.,1
+atom,calculus,a function is said to be periodic if its graph repeats itself at regular intervals.,1
+atom,calculus,"the simpson's rule is another method to approximate definite integrals, similar to the trapezoidal rule, but using parabolas instead of trapezoids to approximate the area under the curve.",1
+atom,calculus,"the hessian matrix, which consists of the second partial derivatives of a function, can be used to classify the critical points of a function as local maxima, local minima, or saddle points.",1
+atom,calculus,fourier series states that any periodic function can be represented as a sum of sine and cosine functions.,1
+atom,calculus,a function is said to be monotonically increasing if its derivative is non-negative.,1
+atom,calculus,the integral of a product of two functions is the product of the first function and the antiderivative of the second function plus the product of the antiderivative of the first function and the second function.,1
+atom,calculus,"l'hôpital's rule states that the limit of the ratio of two functions, provided that the limit of the denominator is zero, can be computed by taking the limit of the ratio of their derivatives.",1
+atom,calculus,the theory of distributions is an extension of the concept of functions that allows us to deal with functions that are not everywhere defined or well-behaved.,1
+atom,calculus,"the gaussian quadrature is a technique used to approximate definite integrals, by using a weighted sum of function evaluations at specific points called the gaussian points.",1
+atom,calculus,the second derivative of a function represents the rate of change of the first derivative.,1
+atom,calculus,the jacobian determinant is a scalar function that gives the local scaling factor for a transformation between coordinates.,1
+atom,calculus,"the jacobian matrix can be used to change coordinates in multiple integrals, and it relates the infinitesimal volumes in the new and old coordinates.",1
+atom,calculus,a function is said to be concave if its second derivative is non-positive.,1
+atom,calculus,the definite integral of a function over an interval represents the signed area between the function's graph and the x-axis over that interval.,1
+atom,calculus,the integral of a constant function is the product of the constant and the upper limit of integration minus the product of the constant and the lower limit of integration.,1
+atom,calculus,the curl of a vector field is a vector function that measures the circulation of the field at a given point.,1
+atom,calculus,"vector calculus is used to mathematically describe the physical fields and processes such as electric, magnetic and gravitational fields, fluid dynamics, elasticity and thermodynamics.",1
+atom,calculus,"the riemann mapping theorem states that any simply connected domain in the complex plane, with at least one point removed, can be mapped conformally onto the open unit disk.",1
+atom,calculus,"the fubini's theorem states that under certain conditions, the order of integration in multiple integrals can be swapped without changing the value of the integral.",1
+atom,calculus,the definite integral of the derivative of a function over an interval represents the change in the value of the function over that interval.,1
+atom,calculus,"the hamilton's principle is used in analytical mechanics to obtain the equations of motion of a physical system, in a concise and elegant way, through an action functional.",1
+atom,calculus,the integral of the sum of two functions is the sum of their integrals.,1
+atom,calculus,the definite integral of a non-negative function over an interval represents the area under the curve of the function over that interval.,1
+atom,calculus,the definite integral can be used to compute the total amount of work done by a constant force over a certain distance.,1
+atom,calculus,"the laplacian operator is a linear differential operator, which acts on a function of several variables and gives a scalar function representing the amount of variation of the function at each point.",1
+atom,calculus,a partial differential equation is a differential equation that involves multiple independent variables and their derivatives.,1
+atom,calculus,"The saddle point is a point on the surface of a function of two variables, where the function has both a local maximum and a local minimum in different directions.",1
+atom,calculus,The chain rule states that the derivative of a composite function can be computed by multiplying the derivative of the outer function with the inner function evaluated at the input of the outer function.,1
+atom,calculus,"The gradient of a function is a vector of its partial derivatives, which represents the steepest direction of increase of the function at a certain point.",1
+atom,calculus,Stokes' theorem relates the circulation of a vector field around a closed curve to the flux of the curl of the vector field through any surface that is bounded by the curve.,1
+atom,calculus,A function is said to be strictly monotonically increasing if it is differentiable and its derivative is positive.,1
+atom,calculus,The method of separation of variables can be used to solve certain types of partial differential equations.,1
+atom,calculus,"Optimization methods can be used to find the maxima and minima of functions of several variables, which are important in many fields including physics, engineering and economics.",1
+atom,calculus,The integration by parts technique can be used to evaluate definite and indefinite integrals of products of functions.,1
+atom,calculus,"The fourier transform is a powerful tool for analyzing and understanding signals and systems, and it has applications in many fields, including signal processing, image processing, and data compression.",1
+atom,calculus,"Euler's theorem states that for a homogeneous function of degree n, the sum of the exponents of the variables is equal to n.",1
+atom,calculus,Green's theorem doesn’t relate the line integral of a vector field around a closed curve to the double integral of the curl of the vector field over the region enclosed by the curve.,1
+atom,calculus,The hamilton-jacobi theory is a formulation of classical mechanics in which the hamilton-jacobi equation is used to describe the evolution of the system in the phase space.,1
+atom,calculus,The stokes' theorem relates the circulation of a vector field around a closed curve to the flux of the curl of the vector field through any surface that is bounded by the curve.,1
+atom,calculus,The definite integral can be used to compute the total amount of heat transferred to or from a substance over a certain temperature interval.,1
+atom,calculus,"Differential equations are used to model the motion of systems in physics and engineering fields such as mechanics, electrical and electronic systems, fluid dynamics, and thermodynamics.",1
+atom,calculus,"The implicit function theorem states that if a function is defined implicitly and differentiable, then it is possible to express the function of one variable in terms of the other variable.",1
+atom,calculus,"In multivariable calculus, the jacobian matrix is a matrix that describes the changes in a set of input variables, when the corresponding output variables are transformed.",1
+atom,calculus,The contraction mapping theorem is a result from the field of metric space that can be used to prove the existence of a unique fixed point for a certain type of function.,1
+atom,calculus,Integration by partial fractions is a method to decompose a rational function in a sum of simpler functions and then integrate each one.,1
+atom,calculus,"The laplace transform is a tool for solving linear differential equations, and it is particularly useful for solving systems of equations that have constant coefficients.",1
+atom,calculus,The lie derivative is a measure of how a vector field changes as the underlying point moves along the flow of a second vector field.,1
+atom,calculus,"The implicit function theorem states that if the graph of a function is given implicitly, it is possible to locally express one variable as a function of the other variables.",1
+atom,calculus,The euler-lagrange equations are used in the calculus of variations to find the functions that extremize a given functional.,1
+atom,calculus,The limit of a function as the input approaches a particular value can be used to define the derivative of the function at that value.,1
+atom,calculus,"The mean value theorem states that for any function that is continuous on a closed interval and differentiable on an open interval, there exists at least one point in the open interval at which the function's derivative is equal to the slope of the secant line through the endpoints of the interval.",1
+atom,calculus,The derivative of a constant function is always zero.,1
+atom,calculus,The hermite functions and laguerre functions are two other sets of special functions that have applications in physics and engineering.,1
+atom,calculus,"The theory of differential equations has applications in many scientific fields such as physics, chemistry, engineering, economics, biology and much more.",1
+atom,calculus,"The vector calculus includes the vector fields, gradient, divergence and curl, which are used to describe the dynamics and behavior of fluid flow, electromagnetism, and other physical phenomena.",1
+atom,calculus,The fundamental theorem of line integrals states that the line integral of a conservative vector field around a closed path is equal to the difference in the values of the scalar potential function evaluated at the endpoints of the path.,1
+atom,calculus,The maximum principle states that the maximum and minimum values of a function in a closed and bounded region are not obtained at the boundary of that region.,1
+atom,calculus,The Schwarz lemma is a fundamental result of the theory of complex analysis.,1
+atom,calculus,The definite integral can be used to compute the total amount of charge transferred in an electric circuit over a certain time interval only if the current is constant over that time interval.,1
+atom,calculus,the inverse z-transform can be used to get the discrete-time signal from its z-transform,1
+atom,calculus,The definite integral can be used to compute the total amount of fluid flow through a pipe or channel.,1
+atom,calculus,a function is said to be monotonically decreasing if its derivative is non-positive.,1
+atom,calculus,"The inverse function theorem guarantees that under certain conditions a function has a local inverse, and it can be used to prove the existence of solutions for certain types of equations and systems.",1
+atom,calculus,The method of substitution is a technique to integrate functions by using a suitable change of variable.,1
+atom,calculus,The derivative of a product of two functions is the product of the first function and the derivative of the second function plus the product of the second function and the derivative of the first function.,1
+atom,calculus,"The picard-lindelöf theorem provides the existence and uniqueness of the solution to a certain type of first-order ordinary differential equations, given an initial value.",1
+atom,calculus,"The legendre functions are another set of solutions to a certain type of differential equation, and they are used in physics and engineering to describe the solutions to laplace's equation.",1
+atom,calculus,The integral of a periodic function over one period is not always zero.,1
+atom,calculus,"The inverse function theorem states that if a function is differentiable, its inverse is also differentiable, and the derivative of the inverse can be obtained by using the reciprocal of the derivative of the function.",1
+atom,calculus,Liouville's theorem states that a bounded entire function is constant.,1
+atom,calculus,The derivative of the sum of two functions is the sum of their derivatives.,1
+atom,calculus,"The Hessian matrix of a function is a matrix of its second-order partial derivatives, which represents the local curvature of the function at a certain point.",1
+atom,calculus,"Vector calculus is also known as vector analysis and it is used to mathematically describe the physical fields and processes such as electric, magnetic and gravitational fields, fluid dynamics, elasticity and thermodynamics.",1
+atom,calculus,The absolute value of a definite integral can be used to compute the total distance traveled by an object moving along a path defined by a velocity function over a certain time interval.,1
+atom,calculus,"The Riemann integral is a way to precisely define the area under a curve, and it is the basic building block for the lebesgue integral and other advanced integration techniques.",1
+atom,calculus,The riemann sum can be used to approximate the definite integral of a function as the limit of a sum of function values evaluated at specific points in the interval of integration.,1
+atom,calculus,The fundamental theorem of calculus states that differentiation and integration are inverse operations.,1
+atom,calculus,the rank-nullity theorem relates the dimension of the domain and range of a linear transformation and the dimension of its kernel and image,1
+atom,calculus,"the stokes' theorem can be also understood in terms of differential forms, which is a way to express the integral of a differential form over a submanifold.",1
+atom,calculus,The antiderivative of a function is also known as the indefinite integral of the function.,1
+atom,calculus,The delta-epsilon definition of limit is a precise mathematical way to describe the idea that a function can get arbitrarily close to a particular value but never actually reach it.,1
+atom,calculus,"The beta and gamma functions are special functions that have several applications in calculus, particularly in probability and statistics.",1
+atom,calculus,"The z-transform is a technique that is used to analyze discrete-time systems, and it is particularly useful for solving difference equations and analyzing stability.",1
+atom,calculus,"Morera's theorem states that if a function is analytic in a region, then its line integral around any closed curve in that region is zero.",1
+atom,calculus,The field of complex analysis studies the properties of complex functions and the behavior of their singularities and uses it to study real-valued functions of a real variable.,1
+atom,calculus,"The bessel functions are a set of solutions to a certain type of differential equation, and they have applications in physics, engineering, and mathematics.",1
+atom,calculus,the inverse and implicit function theorems are powerful results in nonlinear analysis that are used in many fields to prove the existence of solutions of certain types of equations and systems,1
+atom,calculus,"Vector calculus has application in many engineering and physics fields such as electromagnetics, mechanics, thermodynamics, and optics.",1
+atom,calculus,Green's theorem relates the line integral of a vector field around a closed curve to the double integral of the curl of the vector field over the region enclosed by the curve.,1
+atom,calculus,"Taylor's theorem states that any smooth function can be approximated as a polynomial, known as its Taylor series, in the vicinity of a point.",1
+atom,calculus,"Laplace transform is a technique used to solve linear differential equations, which converts the differential equation into an algebraic equation.",1
+atom,calculus,The definite integral can be used to compute the average value of a function over an interval.,1
+atom,calculus,A function is said to be strictly monotonically decreasing if its derivative is negative.,1
+atom,calculus,The divergence of a vector field is a scalar function that measures the net flow of the field at a given point.,1
+atom,calculus,The second order linear ordinary differential equations with constant coefficients can not be solved by using the method of characteristic equations.,1
+atom,calculus,The definite integral can not always be used to compute the total cost of producing a certain number of goods or units of output.,1
+atom,calculus,Cauchy's integral theorem and Cauchy's integral formula are the fundamental tools in complex analysis to evaluate the integral of complex functions.,1
+atom,calculus,"Differential equations can be used to model many real-world problems such as population growth, spread of disease, motion of a pendulum or projectile motion.",1
+atom,calculus,The gaussian quadrature is a technique to numerically evaluate definite integrals by approximating them with weighted sum of function evaluations at specific points.,1
+atom,geometry,The circumcenter of a triangle is always the same as the centroid.,0
+atom,geometry,A quadrilateral with 4 right angles is always a square.,0
+atom,geometry,The area of a parallelogram is always equal to the length of its diagonals.,0
+atom,geometry,The diagonals of a rectangle are not always congruent.,0
+atom,geometry,The angle bisector of an angle always divides the angle into three parts.,0
+atom,geometry,The centroid of a triangle is always the same as the circumcenter of the triangle.,0
+atom,geometry,The medians of a triangle are always parallel.,0
+atom,geometry,The angle bisectors of a triangle are always congruent.,0
+atom,geometry,A rectangular prism has only 4 sides.,0
+atom,geometry,The distance between two parallel lines is always the same at different points.,0
+atom,geometry,The medians of a triangle do not necessarily concur.,0
+atom,geometry,The interior angles of a polygon are always congruent.,0
+atom,geometry,The diagonals of a rhombus are not always perpendicular to each other.,0
+atom,geometry,"The area of a circle is always pi * d^2, where d is the diameter.",0
+atom,geometry,A line segment can be larger than a line.,0
+atom,geometry,The measure of an inscribed angle is always greater than the measure of the arc it intercepts.,0
+atom,geometry,The incenter of a triangle is always the same as the centroid of the triangle.,0
+atom,geometry,The angle bisector of an angle sometimes divides the angle into two equal angles.,0
+atom,geometry,The distance between the center of a circle and a point on a circle is less than twice the distance between the point and the tangent from the point to the circle.,0
+atom,geometry,A rectangle has 4 congruent sides.,0
+atom,geometry,The interior angles of a rhombus are always right angles.,0
+atom,geometry,A pentagon has 6 sides.,0
+atom,geometry,The altitude of an isosceles triangle is always the median of the triangle.,0
+atom,geometry,The incenter of a triangle is always the same as the circumcenter of the triangle.,0
+atom,geometry,The angle between two intersecting lines that are perpendicular is always 45 degrees.,0
+atom,geometry,A square and a rectangle always have the same area.,0
+atom,geometry,The interior angles of a regular polygon are not congruent.,0
+atom,geometry,The hypotenuse of a right triangle is not the longest side.,0
+atom,geometry,The center of a square is not always the midpoint of its diagonal.,0
+atom,geometry,The volume of a prism is always equal to the sum of the base and the height.,0
+atom,geometry,The height of a cylinder is always equal to its diameter.,0
+atom,geometry,A line segment always has less than one endpoint.,0
+atom,geometry,A triangle has 5 sides.,0
+atom,geometry,A circle has 4 corners.,0
+atom,geometry,The medians of a triangle are always congruent.,0
+atom,geometry,All triangles are similar,0
+atom,geometry,All angles in a rectangle are acute angles.,0
+atom,geometry,The ratio of the area of two similar figures is always less equal to the ratio of the lengths of their corresponding sides,0
+atom,geometry,A square has 5 angles.,0
+atom,geometry,The circumcenter of a quadrilateral is always the center of the circumcircle.,0
+atom,geometry,A polygon is always determined by 4 non-collinear points.,0
+atom,geometry,The sum of the exterior angles of a polygon is always equal to 90 degrees.,0
+atom,geometry,The diagonals of a rectangle are always congruent.,0
+atom,geometry,A sphere is a 2d shape.,0
+atom,geometry,The circumcenter of a triangle is always the incenter of the triangle.,0
+atom,geometry,The distance between two parallel lines is always the same.,0
+atom,geometry,The sum of the angles in a triangle is always 90 degrees.,0
+atom,geometry,The sum of the interior angles of a pentagon is always equal to 90 degrees.,0
+atom,geometry,"The volume of a cone is always equal to pi * r^3, where r is the radius of the base.",0
+atom,geometry,The midpoint of a line segment is always at the endpoint.,0
+atom,geometry,The area of a square is always equal to the diameter of a circle.,0
+atom,geometry,All line segments that connect the midpoint of two sides of a triangle are not congruent.,0
+atom,geometry,"The perimeter of a circle is not always equal to pi * d, where d is the diameter.",0
+atom,geometry,A triangle can have more than 3 sides.,0
+atom,geometry,The sum of the angles of a triangle is always greater than 180 degrees,0
+atom,geometry,A trapezoid only has one pair of parallel sides.,0
+atom,geometry,The distance between the center of a circle and a point on a circle is always less than half the diameter of the circle.,0
+atom,geometry,All rectangles are squares.,0
+atom,geometry,The diagonals of a rectangle bisect each other at right angles,0
+atom,geometry,The distance between the center of a circle and a tangent is always half the radius of the circle.,0
+atom,geometry,The incircle of a triangle is not always tangent to the three sides of the triangle.,0
+atom,geometry,A square and a rectangle are always congruent.,0
+atom,geometry,The sum of the angles in a triangle is always greater than 180 degrees.,0
+atom,geometry,The centroid of a triangle is always the circumcenter of the triangle.,0
+atom,geometry,The diagonals of a square are not always perpendicular to each other.,0
+atom,geometry,The intersection of the perpendicular bisectors of two segments is always the endpoint of the segment.,0
+atom,geometry,"The volume of a sphere is always equal to pi * r * h, where r is the radius and h is the height.",0
+atom,geometry,The diagonals of a rhombus are always equal in length.,0
+atom,geometry,A line that is parallel to another line will always intersect it.,0
+atom,geometry,The diameter of a circle is always less equal to the radius multiplied by 2.,0
+atom,geometry,The interior angles of a rectangle are always congruent.,0
+atom,geometry,A triangle is determined by two points.,0
+atom,geometry,"The area of a circle is always pi * r * r, where r is the diameter.",0
+atom,geometry,The medians of a trapezoid are always congruent.,0
+atom,geometry,All angles in a square are obtuse angles.,0
+atom,geometry,A line segment that connects the midpoint of two sides of a triangle is always bisector of the angle formed by these two sides.,0
+atom,geometry,The circumcircle of a triangle is always tangent to the three vertices of the triangle.,0
+atom,geometry,The radius of a circle is always equal to the diameter.,0
+atom,geometry,The sum of the angles in a quadrilateral is always less than 180 degrees.,0
+atom,geometry,The distance between the center of a circle and a chord is always twice the radius of the circle.,0
+atom,geometry,The centroid of a triangle is always the incenter of the triangle.,0
+atom,geometry,A line that is parallel to the angle bisector of a triangle will always divide the triangle into two congruent triangles.,0
+atom,geometry,Opposite sides of a parallelogram are not always parallel.,0
+atom,geometry,A line that is parallel to the median of a triangle will always divide the triangle into two congruent triangles.,0
+atom,geometry,The sides of a square are not always equal in length.,0
+atom,geometry,"The ratio of the distance between the center of an ellipse and the focus to the distance between the center of an ellipse and the vertex is always less than the square root of (1-e^2), where e is the eccentricity of the ellipse.",0
+atom,geometry,A cylinder always has a square base.,0
+atom,geometry,The opposite angles of a kite are not always congruent.,0
+atom,geometry,A regular hexagon always has all angles less than 120 degrees.,0
+atom,geometry,The diagonals of a square are not always congruent.,0
+atom,geometry,Two lines that are perpendicular can be parallel.,0
+atom,geometry,The center of a circle is always the midpoint of its radius.,0
+atom,geometry,A line that is parallel to the angle bisector of a triangle will always divide the triangle into two congruent triangles.,0
+atom,geometry,"The circumference of a circle is always equal to pi * d, where d is the radius.",0
+atom,geometry,A line always has one endpoint.,0
+atom,geometry,The pythagorean theorem always applies.,0
+atom,geometry,A line that is parallel to the diagonal of a parallelogram will always divide the parallelogram into three congruent parallelograms.,0
+atom,geometry,The angle between two intersecting lines that are parallel is always 90 degrees.,0
+atom,geometry,The length of the median of a triangle is always the same as the length of the triangle's hypotenuse.,0
+atom,geometry,The opposite sides of a parallelogram are always perpendicular to each other.,0
+atom,geometry,A line segment can be longer than a line.,0
+atom,geometry,The area of a triangle is always more than half of the product of its base and its height.,0
+atom,geometry,The altitude of an equilateral triangle is always longer than the base.,0
+atom,geometry,A square always has 5 congruent sides.,0
+atom,geometry,The exterior angles of a polygon are always congruent.,0
+atom,geometry,The volume of a pyramid is always less equal to 1/3 the product of the base and the height.,0
+atom,geometry,A line that is parallel to a side of a parallelogram will always divide the parallelogram into two congruent parallelograms.,0
+atom,geometry,A line that is parallel to an altitude of a triangle will always divide the triangle into two congruent triangles.,0
+atom,geometry,The perpendicular bisector of a line segment always stops through one endpoint of the segment.,0
+atom,geometry,Two lines that are parallel can be skewed.,0
+atom,geometry,The median of a trapezoid is always the midsegment.,0
+atom,geometry,The angle between a line and a plane is always 45 degrees.,0
+atom,geometry,The incenter of a quadrilateral is always the center of the inscribed circle.,0
+atom,geometry,A square has 3 right angles.,0
+atom,geometry,The measure of an interior angle of a regular octagon is always 90 degrees.,0
+atom,geometry,A line always pass through two points,0
+atom,geometry,A line that is parallel to a side of a triangle will always divide the triangle into two congruent triangles.,0
+atom,geometry,"A cone can be defined by a circle and a point not on the plane of the circle, but it cannot be defined by just a line segment from the vertex to the circle.",1
+atom,geometry,"The volume of a pyramid is given by the formula (bh)/3, where b is the area of the base and h is the height of the pyramid.",1
+atom,geometry,The circumcircle of a triangle is the largest circle that can be circumscribed around the triangle and contains all three vertices.,1
+atom,geometry,The median of a triangle divides the triangle into two equal area triangles.,1
+atom,geometry,A sphere is defined by a center point and a radius.,1
+atom,geometry,The opposite sides of a parallelogram are equal in length.,1
+atom,geometry,The distance between two points is given by the pythagorean theorem if the space is two-dimensional..,1
+atom,geometry,A major arc is an arc that is greater than 180 degrees.,1
+atom,geometry,A line that is perpendicular to a plane can intersect it at more than one point.,1
+atom,geometry,"The centroid of a triangle is the point where the medians of the triangle intersect, and it divides each median in a 2:1 ratio.",1
+atom,geometry,Parallel lines are always equidistant from each other.,1
+atom,geometry,The sum of the exterior angles of a polygon is always 360 degrees.,1
+atom,geometry,"The volume of a sphere is given by the formula (4/3) * pi * r^3, where pi is approximately equal to 3.14, and r is the radius of the sphere.",1
+atom,geometry,The sum of the interior angles in a polygon with n sides is (n-2) * 180 degrees.,1
+atom,geometry,The area of a regular polygon can be found by (perimeter* apothem)/2.,1
+atom,geometry,Two circles are congruent if they have the same radius.,1
+atom,geometry,The distance between the center of a circle and a point on a circle is equal to the distance between the point and the tangent from the point to the circle.,1
+atom,geometry,A median of a trapezoid is a line segment that connects the midpoint of the two non-parallel sides.,1
+atom,geometry,The incircle of a triangle is the largest circle that can be inscribed in the triangle and is tangent to all three sides.,1
+atom,geometry,"The distance between a point and a plane is given by the formula d = (ax + by + cz + d)/sqrt(a^2 + b^2 + c^2), where a, b, c, d are the coefficients of the equation of the plane, and x, y, z are the coordinates of the point.",1
+atom,geometry,The diagonals of a square are equal in length.,1
+atom,geometry,An isosceles triangle is a triangle with two congruent sides.,1
+atom,geometry,"A transformation that preserves size, shape, and orientation is called a rigid transformation.",1
+atom,geometry,The midpoint of a line segment is the point that is equidistant from the endpoints.,1
+atom,geometry,A line that is parallel to an altitude of a triangle will divide the triangle into a small triangle which is similar with the original triangle.,1
+atom,geometry,A line connects infinitely many points.,1
+atom,geometry,The circumcircle is not necessarily tangent to the three perpendicular bisectors of the triangle sides.,1
+atom,geometry,A line that is parallel to the diagonal of a parallelogram will divide the parallelogram into two congruent triangles.,1
+atom,geometry,A plane can be defined by three non-collinear points or by a point and a line perpendicular to the plane's normal vector.,1
+atom,geometry,A regular polygon is a polygon where all the sides and angles are congruent.,1
+atom,geometry,a line segment connects two endpoints that are points,1
+atom,geometry,a rhombus is a four-sided polygon with all sides congruent.,1
+atom,geometry,the distance between two parallel lines is the same at all points.,1
+atom,geometry,a triangle is determined by three non-collinear points.,1
+atom,geometry,the length of the median of a triangle is equal to the average of the lengths of the two segments formed by dividing the triangle in half.,1
+atom,geometry,a sphere can be defined by four non-coplanar points.,1
+atom,geometry,the interior angles of a polygon are supplementary.,1
+atom,geometry,two circles are tangent if they share the same radius and their centers are distance apart equal to the sum of their radii.,1
+atom,geometry,"the area of a circle is given by the formula pi * r^2, where pi is approximately equal to 3.14 and r is the radius.",1
+atom,geometry,a ray has one endpoint and goes infinitely in one direction.,1
+atom,geometry,an obtuse triangle is a triangle with one angle measure greater than 90 degrees.,1
+atom,geometry,the angle between a line and a plane is equal to the angle between the line and the normal of the plane.,1
+atom,geometry,a minor arc is an arc that is less than 180 degrees.,1
+atom,geometry,a linear pair of angles share a common vertex and form a straight angle.,1
+atom,geometry,"a point is determined by two coordinates (x, y) or three coordinates (x, y, z) in space.",1
+atom,geometry,the incircle of a triangle is tangent to the three angle bisectors of the triangle.,1
+atom,geometry,the opposite angles of a parallelogram are equal in measure.,1
+atom,geometry,the measure of an angle formed by two intersecting lines is always positive,1
+atom,geometry,"the circumcenter of a triangle is the point where the perpendicular bisectors of the triangle sides intersect, and it is equidistant from the three vertices.",1
+atom,geometry,an equilateral triangle is a triangle with three congruent sides.,1
+atom,geometry,the radius of a circle is the distance from the center to the perimeter.,1
+atom,geometry,the diagonals of a rectangle bisect each other.,1
+atom,geometry,"the ratio of the distance between the center of an ellipse and the focus to the distance between the center of an ellipse and the vertex is equal to the square root of (1-e^2), where e is the eccentricity of the ellipse.",1
+atom,geometry,"the distance between the two foci of an ellipse is equal to 2 * c, where c is the distance between the center of the ellipse and one of its foci.",1
+atom,geometry,a scalene triangle is a triangle with three different sides,1
+atom,geometry,"the circumference of a circle is given by the formula 2 * pi * r, where pi is approximately equal to 3.14 and r is the radius.",1
+atom,geometry,the sum of the angles in a triangle is 180 degrees.,1
+atom,geometry,"the volume of a sphere is given by the formula 4/3 * pi * r^3, where pi is approximately equal to 3.14 and r is the radius.",1
+atom,geometry,A rectangle is a quadrilateral with four right angles.,1
+atom,geometry,The perpendicular bisector of a line segment passes through the midpoint of the segment.,1
+atom,geometry,Two circles are similar if the ratio of their radii is the same.,1
+atom,geometry,A square has 4 right angles.,1
+atom,geometry,A regular hexagon is a six-sided polygon with all sides and angles congruent.,1
+atom,geometry,A line that is parallel to the median of a triangle will divide the triangle into two equal-area small triangles.,1
+atom,geometry,"The surface area of a sphere is given by the formula 4 * pi * r^2, where pi is approximately equal to 3.14 and r is the radius.",1
+atom,geometry,The circumcenter of a triangle is the point that is equidistant from the three vertices of the triangle.,1
+atom,geometry,The image of a point under a transformation is obtained by applying a set of instructions to the point.,1
+atom,geometry,A cube is a three-dimensional figure with six square faces and all angles are right angles.,1
+atom,geometry,A transformation that preserves size and shape but not orientation is called a similarity transformation.,1
+atom,geometry,The ratio of the area of two similar figures is equal to the square of the ratio of the lengths of their corresponding sides.,1
+atom,geometry,"The volume of a cone is given by the formula (1/3) * pi * r^2 * h, where pi is approximately equal to 3.14, r is the radius of the base, and h is the height of the cone.",1
+atom,geometry,A triangle has 3 sides.,1
+atom,geometry,A line that is parallel to the angle bisector of a triangle will divide the triangle into two proportional triangles.,1
+atom,geometry,A transformation preserves the distance and angles between any two points if it is an isometry.,1
+atom,geometry,The angle between two intersecting lines that are parallel is 0 degrees.,1
+atom,geometry,A line that is parallel to a side of a triangle will divide the triangle into two triangles that may not be similar.,1
+atom,geometry,A tangent line to a circle is a line that intersects the circle at exactly one point.,1
+atom,geometry,A line segment has two endpoints.,1
+atom,geometry,The median of the hypotenuse is a line segment that joins the midpoint of the hypotenuse to the vertex opposite the hypotenuse.,1
+atom,geometry,The diagonals of a parallelogram bisect each other.,1
+atom,geometry,An inscribed angle that intercepts an arc of 90 degrees is a right angle.,1
+atom,geometry,A line that is parallel to a plane will never intersect it.,1
+atom,geometry,"The volume of a prism is given by the formula bh, where b is the area of the base and h is the height of the prism.",1
+atom,geometry,A central angle is an angle that has its vertex at the center of a circle.,1
+atom,geometry,The angle sum of an n-sided polygon is (n-2) times 180 degrees.,1
+atom,geometry,The distance between the center of a circle and a chord is not equal to the radius of the circle.,1
+atom,geometry,A line that is parallel to another line will never intersect it.,1
+atom,geometry,The diameter of a circle is twice the length of the radius.,1
+atom,geometry,The angle bisector of an angle divides the angle into two equal angles.,1
+atom,geometry,Two chords in a circle are congruent if they have the same length.,1
+atom,geometry,"The altitude of a triangle that is perpendicular to the base, splits the triangle into two congruent triangles.",1
+atom,geometry,The angle between two intersecting lines that are perpendicular is 90 degrees.,1
+atom,geometry,The ratio of the length of the altitude to the base of a triangle depends on the specific altitude being considered.,1
+atom,geometry,The measure of an inscribed angle is half the measure of the arc it intercepts.,1
+atom,geometry,"The volume of a cylinder is given by the formula pi * r^2 * h, where pi is approximately equal to 3.14, r is the radius of the base, and h is the height.",1
+atom,geometry,A right cylinder has two congruent circles as bases and all of its lateral faces are rectangles.,1
+atom,geometry,The sum of the angles in a quadrilateral is 360 degrees.,1
+atom,geometry,A line that intersects two or more lines at distinct points is called a transversal.,1
+atom,geometry,The circumference of a circle is the distance around the perimeter.,1
+atom,geometry,The area of a triangle is equal to (1/2)base * height.,1
+atom,geometry,"A polygon is a closed figure with three or more straight sides that form a simple closed shape, not by points.",1
+atom,geometry,A line segment that joins the midpoints of two sides of a triangle is parallel to the third side and is half of the length.,1
+atom,geometry,The distance between two points can be found using the distance formula: √((x2-x1)^2 + (y2-y1)^2 ) or √((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2),1
+atom,geometry,The product of the lengths of the diagonals of a rectangle is equal to the product of its side lengths.,1
+atom,geometry,The distance between the center of a circle and a tangent is equal to the radius of the circle.,1
+atom,geometry,A cylinder is defined by two parallel bases that are circles and a lateral surface connecting them.,1
+atom,geometry,The orthocenter of a triangle is the point where the altitudes of the triangle intersect.,1
+atom,geometry,A line has no endpoints.,1
+atom,geometry,The distance between the center of a circle and a point on a circle is equal to the radius of the circle.,1
+atom,geometry,The height of a cone is perpendicular to its base.,1
+atom,geometry,A kite is a quadrilateral with two pairs of adjacent congruent sides.,1
+atom,geometry,A plane can be defined by two intersecting lines or by three non-collinear points.,1
+atom,geometry,The centroid of a triangle is the point at which the medians of the triangle intersect.,1
+atom,geometry,The incenter of a triangle is the point at which the angle bisectors of the triangle intersect.,1
+atom,geometry,The angle formed by two intersecting lines is called a vertical angle.,1
+atom,numbertheory,the number of ways to represent a positive integer n as a sum of two or more distinct positive integers is given by the number of divisors of n.,0
+atom,numbertheory,"the sum of the divisors of a positive integer n is equal to (p1^(a1+3)-1)(p2^(a2+3)-1)...(pk^(ak+3)-1) where p1, p2, ..., pk are the prime factors of n and a1, a2, ..., ak are their exponents.",0
+atom,numbertheory,the sum of the first n triangular numbers is equal to n^3.,0
+atom,numbertheory,the number of divisors of a positive integer n is equal to the product of the exponents of the prime factors of n + 1.,0
+atom,numbertheory,the sum of the first n natural numbers is equal to n^2.,0
+atom,numbertheory,the sum of any n consecutive integers is always a multiple of 4.,0
+atom,numbertheory,every composite number greater than 4 can be written as the product of three prime numbers.,0
+atom,numbertheory,the product of two consecutive integers is always odd.,0
+atom,numbertheory,the number of positive integers greater than or equal to n that are relatively prime to n is given by euler's totient function.,0
+atom,numbertheory,the euler's totient function for any positive integer n is equal to the number of positive integers greater than or equal to n that are relatively prime to n.,0
+atom,numbertheory,the sum of the squares of the first n natural numbers is equal to n(n-1)(2n-1)/3.,0
+atom,numbertheory,the product of two consecutive integers is always prime.,0
+atom,numbertheory,"the sum of the divisors of a positive integer n is equal to (p1^(a1-1)-1)(p2^(a2-1)-1)...(pk^(ak-1)-1) where p1, p2, ..., pk are the prime factors of n and a1, a2, ..., ak are their exponents.",0
+atom,numbertheory,the sum of the first n squares of natural numbers is equal to n(n-1)(2n-1)/6.,0
+atom,numbertheory,the least common multiple of two integers a and b is always equal to the smaller of a and b.,0
+atom,numbertheory,every prime number greater than 3 can be written in the form 6n - 1.,0
+atom,numbertheory,every prime number greater than 3 can be written in the form 6n + 2.,0
+atom,numbertheory,the sum of any n consecutive integers is always a multiple of 2.,0
+atom,numbertheory,the number of divisors of a perfect square is always prime.,0
+atom,numbertheory,the sum of the first n natural numbers is equal to n(n-2)/2.,0
+atom,numbertheory,the euler's totient function for any positive integer n is equal to the number of positive integers greater than n that are not relatively prime to n.,0
+atom,numbertheory,the sum of the squares of the first n natural numbers is equal to n(n-1)(2n-1)/6.,0
+atom,numbertheory,the greatest common divisor of two integers a and b is always greater than the smaller of a and b.,0
+atom,numbertheory,the sum of the first n fibonacci numbers is equal to the (n-2)th fibonacci number plus 1.,0
+atom,numbertheory,the sum of the first n natural numbers is equal to n(n-1)/2.,0
+atom,numbertheory,the euler's totient function for any positive integer n is equal to the number of positive integers less than or equal to n that are not relatively prime to n.,0
+atom,numbertheory,the sum of any n consecutive integers is always a multiple of 5.,0
+atom,numbertheory,the sum of the first n odd integers is n(n+1),0
+atom,numbertheory,the sum of the first n natural numbers is equal to n(n+3)/2.,0
+atom,numbertheory,the number of divisors of a positive integer n is equal to the sum of the exponents of the prime factors of n.,0
+atom,numbertheory,"the number of divisors of a positive integer n is equal to (a1-1)(a2-1)...(ak-1) where a1, a2, ..., ak are the exponents of the prime factors of n.",0
+atom,numbertheory,every composite number greater than 4 can be written as the difference of two prime numbers.,0
+atom,numbertheory,the sum of the first n triangular numbers is equal to n(n-1)(n-2)/6.,0
+atom,numbertheory,every prime number greater than 3 can be written in the form 6n + 1.,0
+atom,numbertheory,the euler's totient function for any positive integer n is equal to the number of positive integers greater than n that are relatively prime to n.,0
+atom,numbertheory,the number of ways to choose r objects from n distinct objects is given by n! / r!,0
+atom,numbertheory,every positive integer can be written as a product of non-prime numbers.,0
+atom,numbertheory,the sum of the first n fibonacci numbers is equal to the (n+2)th fibonacci number plus 1.,0
+atom,numbertheory,the product of two integers is always divisible by their least common multiple.,0
+atom,numbertheory,the number of ways to represent a positive integer n as a sum of two or more distinct positive integers is given by the product of the exponents of the prime factors of n.,0
+atom,numbertheory,the sum of the first n natural numbers is equal to n(n+2)/2.,0
+atom,numbertheory,"the sum of the divisors of a positive integer n is equal to (p1^(a1+2)-1)(p2^(a2+2)-1)...(pk^(ak+2)-1) where p1, p2, ..., pk are the prime factors of n and a1, a2, ..., ak are their exponents.",0
+atom,numbertheory,the number of divisors of a perfect square is always even.,0
+atom,numbertheory,the number of divisors of a positive integer n is equal to the sum of the exponents of the prime factors of n - 1.,0
+atom,numbertheory,every prime number greater than 3 can be written in the form 6n - 2.,0
+atom,numbertheory,the number of ways to arrange n distinct objects is given by n^n.,0
+atom,numbertheory,the number of ways to choose r objects from n distinct objects is given by n^r.,0
+atom,numbertheory,the sum of any n consecutive integers is always a multiple of 3.,0
+atom,numbertheory,the greatest common divisor of two integers a and b is always equal to the larger of a and b.,0
+atom,numbertheory,"the sum of the divisors of a positive integer n is equal to (p1^(a1)-1)(p2^(a2)-1)...(pk^(ak)-1) where p1, p2, ..., pk are the prime factors of n and a1, a2, ..., ak are their exponents.",0
+atom,numbertheory,the sum of the first n squares of natural numbers is equal to n(n-1)(2n-1)/4.,0
+atom,numbertheory,every positive integer can be written as a product of prime numbers and 1.,0
+atom,numbertheory,"please note that these statements are false in number theory, these examples are provided to give you an understanding of how a false statement can be formulated in this area of mathematics.",0
+atom,numbertheory,the product of the least common multiple and the greatest common divisor of two integers is equal to their product.,0
+atom,numbertheory,the number of positive integers greater than or equal to n that are not relatively prime to n is given by euler's totient function.,0
+atom,numbertheory,every positive integer can be written as the sum of two prime numbers.,0
+atom,numbertheory,the greatest common divisor of two integers is always divisible by their greatest common divisor.,0
+atom,numbertheory,the number of divisors of a positive integer n is equal to the product of the exponents of the prime factors of n.,0
+atom,numbertheory,the least common multiple of two integers a and b is always less than the larger of a and b.,0
+atom,numbertheory,the number of ways to arrange n distinct objects is given by 2^n.,0
+atom,numbertheory,the product of two consecutive integers is always even.,1
+atom,numbertheory,the number of ways to arrange n distinct objects is given by n!.,1
+atom,numbertheory,the product of two consecutive integers is always odd.,1
+atom,numbertheory,every composite number can be written as a product of two or more prime numbers.,1
+atom,numbertheory,the number of ways to represent a positive integer n as a sum of two or more distinct positive integers is given by the number of partitions of n.,1
+atom,numbertheory,the product of two integers is always divisible by their greatest common divisor.,1
+atom,numbertheory,the sum of the first n squares of natural numbers is equal to n(n+1)(2n+1)/6.,1
+atom,numbertheory,"the number of divisors of a positive integer n is equal to (a1+1)(a2+1)...(ak+1) where a1, a2, ..., ak are the exponents of the prime factors of n.",1
+atom,numbertheory,every positive integer can be uniquely represented as a product of prime powers.,1
+atom,numbertheory,the sum of the first n cubes of natural numbers is equal to (n(n+1)/2)^2.,1
+atom,numbertheory,the sum of the squares of the first n even integers is n(2n+1)(2n+2)/3.,1
+atom,numbertheory,a positive integer n is prime if and only if its only divisors are 1 and n.,1
+atom,numbertheory,the greatest common divisor of two integers a and b is always less than or equal to the smaller of a and b.,1
+atom,numbertheory,the euler's totient function for any positive integer n is equal to the number of positive integers less than n that are relatively prime to n.,1
+atom,numbertheory,the number of divisors of a positive integer n is equal to the sum of the exponents of the prime factors of n + 1.,1
+atom,numbertheory,the least common multiple of two integers a and b is always greater than or equal to the larger of a and b.,1
+atom,numbertheory,the number of ways to choose r objects from n distinct objects is given by ncr.,1
+atom,numbertheory,the number of ways to represent a positive integer n as a sum of two or more positive integers is given by the partition function.,1
+atom,numbertheory,the sum of the squares of the first n odd integers is n(2n+1)(2n+1)/3.,1
+atom,numbertheory,every positive integer greater than 1 can be written as a product of primes.,1
+atom,numbertheory,the sum of any n consecutive integers is always a multiple of n.,1
+atom,numbertheory,every composite number greater than 4 is the sum of two prime numbers.,1
+atom,numbertheory,the number of ways to arrange r objects from a set of n distinct objects is given by nc_r.,1
+atom,numbertheory,the sum of all the proper divisors of a perfect number is always equal to the number itself.,1
+atom,numbertheory,"the sum of the divisors of a positive integer n is equal to (p1^(a1+1)-1)(p2^(a2+1)-1)...(pk^(ak+1)-1) where p1, p2, ..., pk are the prime factors of n and a1, a2, ..., ak are their exponents.",1
+atom,numbertheory,the sum of the first n odd integers is n².,1
+atom,numbertheory,every composite number greater than 4 can be written as the sum of two prime numbers.,1
+atom,numbertheory,the least common multiple of two integers is always divisible by their least common multiple.,1
+atom,numbertheory,the number of integers between 1 and n that are relatively prime to n is given by euler's totient function.,1
+atom,numbertheory,the sum of the first n triangular numbers is equal to n(n+1)(n+2)/6.,1
+atom,numbertheory,the sum of the first n even cubes is equal to n(n+1)(2n+1)(2n+2)/4.,1
+atom,numbertheory,the sum of the first n natural numbers is equal to n(n+1)/2.,1
+atom,numbertheory,the sum of the first n odd cubes is equal to n^2(n+1)^2.,1
+atom,numbertheory,every prime number greater than 3 can be written in the form 6n ± 1.,1
+atom,numbertheory,the sum of the cubes of the first n natural numbers is equal to (n(n+1)/2)^2.,1
+atom,numbertheory,the product of the greatest common divisor and the least common multiple of two integers is equal to their product.,1
+atom,numbertheory,the sum of the first n fibonacci numbers is equal to the (n+2)th fibonacci number minus 1.,1
+atom,numbertheory,the number of divisors of a perfect square is always odd.,1
+atom,numbertheory,the sum of the squares of the first n natural numbers is equal to n(n+1)(2n+1)/6.,1
+atom,numbertheory,every prime number greater than 2 can be written in the form 6n ± 1.,1
+atom,numbertheory,the sum of the first n even integers is n(n+1).,1
+atom,numbertheory,the number of positive integers less than or equal to n that are relatively prime to n is given by euler's totient function.,1
+atom,numbertheory,the number of ways to choose r objects from a set of n distinct objects without replacement is given by np_r.,1
+atom,statistics,the hausman test can only be used for comparing the relative efficiency of fixed and random effects models.,0
+atom,statistics,the mcnemar's test is a chi-squared test for comparing proportions of a binary trait in two independent samples,0
+atom,statistics,the anderson-darling test is always less powerful tha n the Kolmogorov-Smirnov test.,0
+atom,statistics,the chi-squared distribution is always symmetric.,0
+atom,statistics,the anova test can only be used for continuous data.,0
+atom,statistics,the principal component analysis (pca) is only used for dimensionality reduction.,0
+atom,statistics,the chi-squared test is always appropriate to test independence between two variables with small sample size.,0
+atom,statistics,the kendall rank correlation coefficient (τ) is only used for numerical data.,0
+atom,statistics,the p-value is always gives the probability that a null hypothesis  is due to chance,0
+atom,statistics,the chi-squared test can only be used when the sample size is small.,0
+atom,statistics,the shapiro-francia test can only be used for testing normality of data when the sample size is large.,0
+atom,statistics,the mood's median test is a chi-squared test for comparing means of two or more groups,0
+atom,statistics,"the p-value only gives the probability of obtaining the observed result, assuming the null hypothesis is false.",0
+atom,statistics,the principal component analysis (pca) can only be used for identifying patterns in univariate data.,0
+atom,statistics,the standard error does not measure the spread of the sample means around the population mean.,0
+atom,statistics,the chi-squared test can only be used for testing independence between two categorical variables with large sample sizes.,0
+atom,statistics,the bootstrap method can't be used to estimate standard errors or confidence intervals.,0
+atom,statistics,"the p-value is the probability that the result is due to chance, assuming the null hypothesis is false.",0
+atom,statistics,the cramer-von mises test can only be used for categorical data.,0
+atom,statistics,the chi-squared test is the only test that can be used to compare proportions,0
+atom,statistics,the chi-squared test can only be used for testing normality of data.,0
+atom,statistics,the generalized linear model (glm) is only used to model data with normally distributed errors.,0
+atom,statistics,the anova test can only be used to compare means of three or more groups with unequal variances.,0
+atom,statistics,the chi-squared test can always be used as a goodness of fit test.,0
+atom,statistics,the chi-squared test is not affected by the underlying distribution of the data.,0
+atom,statistics,the auc-roc is only used for evaluating classification models.,0
+atom,statistics,a p-value of 0.05 always means that the result is statistically significant.,0
+atom,statistics,"the p-value is the probability of observing the data, given that the null hypothesis is false.",0
+atom,statistics,the random forest method is only used for classification.,0
+atom,statistics,a probability of 1 means an impossible event and a probability of 0 means a certain event.,0
+atom,statistics,the ridge regularization method is used to prevent overfitting in linear regression models only.,0
+atom,statistics,"the chi-squared test will always have the same conclusion, regardless of the sample size",0
+atom,statistics,the gradient boosting method is only used for regression tasks.,0
+atom,statistics,the svm is only used for classification tasks.,0
+atom,statistics,the generalized linear model (glm) can only be used for binary and continuous outcomes.,0
+atom,statistics,the wilcoxon signed-rank test can only be used for comparing medians.,0
+atom,statistics,the wilcoxon rank-sum test can only be used for related samples,0
+atom,statistics,the chi-squared test is a test for comparing variances of two or more groups.,0
+atom,statistics,the chi-squared test is always less powerful than the fisher's exact test.,0
+atom,statistics,the chi-squared test can always be used as a test of independence between two variables.,0
+atom,statistics,the binomial distribution is only used to model the probability of successes in a fixed number of bernoulli trials.,0
+atom,statistics,the chi-squared test can only be used for testing goodness of fit,0
+atom,statistics,the chi-squared test can only be used for nominal data.,0
+atom,statistics,the t-test is only used to compare the means of two groups.,0
+atom,statistics,the jonckheere-terpstra test is a chi-squared test for comparing proportions of a binary outcome.,0
+atom,statistics,the anova test is only used when the sample size is large.,0
+atom,statistics,the p-value is a measure of effect size.,0
+atom,statistics,the jarque-bera test is only used for testing normality of residuals in linear regression models.,0
+atom,statistics,the chi-squared test can not be used for testing non-random association between categorical variables,0
+atom,statistics,the f-test is only used to compare variances of two or more groups.,0
+atom,statistics,the wilcoxon signed-rank test can only be used for comparing means.,0
+atom,statistics,the naive bayes algorithm is always more accurate than other classification methods,0
+atom,statistics,the decision tree can only be used for classification tasks.,0
+atom,statistics,the correlation coefficient (r) measures only positive relationships.,0
+atom,statistics,the kendall rank correlation coefficient (τ) is a measure of linear association between two variables.,0
+atom,statistics,the chi-squared test is appropriate to test the normality of data,0
+atom,statistics,the correlation coefficient (r) measures only the strength of a non-linear relationship between two variables.,0
+atom,statistics,the chi-squared test is only used for comparing proportions.,0
+atom,statistics,the wilcoxon rank-sum test can only be used for dependent samples,0
+atom,statistics,the permutation test is a parametric test,0
+atom,statistics,the quade test can only be used for comparing medians of two groups.,0
+atom,statistics,the t-test is only used to compare means of two groups with unknown variances.,0
+atom,statistics,the median is always larger than the mean.,0
+atom,statistics,the f-distribution is only used in the f-test for equality of variances.,0
+atom,statistics,the chi-squared test is only used for testing independence between two categorical variables.,0
+atom,statistics,the spearman rank correlation coefficient (ρ) is only used for ordinal data.,0
+atom,statistics,linear regression is only used to model linear relationships between explanatory variables.,0
+atom,statistics,the ridge regularization method is used to prevent overfitting in decision tree based methods.,0
+atom,statistics,the chi-squared test can only be used for comparing observed and expected frequencies in one sample.,0
+atom,statistics,the mixed-effects models are only used for random effects.,0
+atom,statistics,the standard deviation and the variance are the same thing.,0
+atom,statistics,the durbin-watson test can only be used for testing autocorrelation in time-series data.,0
+atom,statistics,the factor analysis only can be used in the case of numerical data.,0
+atom,statistics,the mixed-effects models is a statistical model that contains only fixed effects.,0
+atom,statistics,the jonckheere-terpstra test is a chi-squared test for comparing proportions of a binary outcome in three or more groups,0
+atom,statistics,the f-test can only be used when the sample size is large.,0
+atom,statistics,the lasso regularization method is used to prevent overfitting in decision trees.,0
+atom,statistics,a correlation coefficient of 0 means that there is no relationship between two variables.,0
+atom,statistics,the correlation coefficient (r) measures only non-linear relationships,0
+atom,statistics,the chi-squared test is always more powerful than the g-test.,0
+atom,statistics,the standard deviation is always larger than the variance.,0
+atom,statistics,the factor analysis is only used to identify patterns in multivariate data.,0
+atom,statistics,the sign test is always a parametric test.,0
+atom,statistics,the random forest and gradient boosting are the same method,0
+atom,statistics,the chi-squared test is not affected by sample size.,0
+atom,statistics,the spearman rank correlation coefficient (ρ) is not a measure of ordinal association between two variables.,0
+atom,statistics,the permutation test is a parametric statistical test,0
+atom,statistics,the chi-squared test can only be used for continuous variables.,0
+atom,statistics,the chi-squared test is only appropriate for contingency tables with two rows and two columns,0
+atom,statistics,a negative correlation means that the variables are completely unrelated.,0
+atom,statistics,the t-test can only be used when the sample size is small.,0
+atom,statistics,the mean absolute error is always a better measure of performance than the root mean squared error.,0
+atom,statistics,the t-test is only used for comparing means of two independent groups.,0
+atom,statistics,a type 2 error always leads to rejecting the null hypothesis.,0
+atom,statistics,the shapiro-wilk test is only used for testing normality of data when the sample size is small.,0
+atom,statistics,the lilliefors test is a test for normality that can only be used for large sample sizes.,0
+atom,statistics,the chi-squared test and the fisher's exact test are the same thing.,0
+atom,statistics,the correlation coefficient measures the causality between two variables.,0
+atom,statistics,the chi-squared test and the g-test are the same thing.,0
+atom,statistics,the svm is only used for regression tasks.,0
+atom,statistics,the friedman test can only be used for comparing variances of two or more groups.,0
+atom,statistics,the t-test is only used when the sample size is small.,0
+atom,statistics,a statistically significant result means that the result is practically significant.,0
+atom,statistics,the chi-squared test is always more powerful than the other tests of independence,0
+atom,statistics,the random forest and gradient boosting are not related methods,0
+atom,statistics,the chi-squared test is not affected by the sample size,0
+atom,statistics,the f-test is only used for testing equality of variances.,0
+atom,statistics,the naive bayes algorithm is always less accurate than other classification methods,0
+atom,statistics,the breusch-pagan tes t is not used for testing heteroscedasticity in linear regression models.,0
+atom,statistics,the kruskal-wallis test can only be used for comparing means of two or more groups.,0
+atom,statistics,the chi-squared test can only be used for testing independence between two categorical variables with small sample sizes.,0
+atom,statistics,the chi-squared test can only be used for comparing proportions of a binary trait in two related samples,0
+atom,statistics,the bootstrap method can't be used to estimate statistics on a population by sampling a dataset with replacement,0
+atom,statistics,the mcnemar's test is a chi-squared test for comparing the proportions of a binary trait in two independent samples,0
+atom,statistics,the decision tree is only used for regression tasks.,0
+atom,statistics,the anova test can only be used for comparing means of two or more independent groups.,0
+atom,statistics,the z-test is only used to test mean difference between two large samples.,0
+atom,statistics,the chi-squared test can only be used for comparing proportions of a binary trait in one sample.,0
+atom,statistics,the anderson-darling test is always more powerful than the kolmogorov-smirnov test.,0
+atom,statistics,the chi-squared test is always the best test to use in every scenario where it is applicable,0
+atom,statistics,the central limit theorem only applies to normally distributed data and large sample sizes.,0
+atom,statistics,the chi-squared test can not be used to compare observed and expected frequencies.,0
+atom,statistics,the anova test can only be used for comparing means of three or more groups.,0
+atom,statistics,the k-means algorithm is not  used for clustering.,0
+atom,statistics,the chi-squared test and chi-squared goodness of fit test are the same thing,0
+atom,statistics,the central limit theorem only applies to normally distributed data.,0
+atom,statistics,the law of large numbers always holds true.,0
+atom,statistics,the p-value always gives the probability of making a type i error.,0
+atom,statistics,the friedman test is a statistical test used to determine whether there is a difference among several treatments in a k-repeated measures design,1
+atom,statistics,the expectation propagation is a method used to approximate a complex posterior distribution in bayesian inference.,1
+atom,statistics,the central limit theorem states that the distribution of sample means will be approximately normal.,1
+atom,statistics,the arima model is a time series model used to model and forecast time-dependent data.,1
+atom,statistics,the f-test is used to compare variances.,1
+atom,statistics,the sample size needed to detect a given effect at a given level of power is known as the sample size requirement.,1
+atom,statistics,the bootstrap method is a technique used to estimate the sampling distribution of an estimator.,1
+atom,statistics,the potts model is a variation of the ising model that allows for multiple states per spin.,1
+atom,statistics,a type ii error occurs when a null hypothesis is not rejected when it is actually false.,1
+atom,statistics,the adam optimization is a variant of stochastic gradient descent that adapts the learning rate during the optimization process,1
+atom,statistics,the bayes theorem is used to revise probabilities based on new information.,1
+atom,statistics,"the mean, median, and mode are all measures of central tendency.",1
+atom,statistics,"the time series analysis is a method used for analyzing, modeling and forecasting time-dependent data.",1
+atom,statistics,the momentum optimization is another variant of the sgd that adds a term that accumulate the past gradients to the update of the parameters.,1
+atom,statistics,the t-test is used to compare the means of two groups.,1
+atom,statistics,the multivariate generalized linear model (mglm) is a extension of glm that allows modeling multiple response variables,1
+atom,statistics,the generalized estimating equation (gee) is a method used to account for correlated data in a linear or logistic regression analysis.,1
+atom,statistics,the sign test is a statistical test used to compare the medians of two or more groups.,1
+atom,statistics,the entropy is another measure of the impurity of the samples in a dataset used in decision trees algorithm,1
+atom,statistics,the mood's median test is a statistical test used to compare the medians of two or more groups.,1
+atom,statistics,the r-squared metric is a measure of the proportion of variance explained by a linear regression model.,1
+atom,statistics,the lasso and ridge regularization methods are used to prevent overfitting in linear regression.,1
+atom,statistics,the var  model is a time series model used to model the relationship between multiple time series.,1
+atom,statistics,the hamiltonian monte carlo (hmc) is a variation of the mcmc method that utilizes gradient information for more efficient sampling.,1
+atom,statistics,the mixed-effects models is a statistical model that contains both fixed and random effects.,1
+atom,statistics,the p-value is used to indicate the level of statistical significance.,1
+atom,statistics,"the z-distribution is used in z-test for comparing means, proportion and for testing other parameters in statistical models",1
+atom,statistics,the backpropagation is an algorithm used to train artificial neural networks.,1
+atom,statistics,"the multidimensional scaling is a technique used to map high-dimensional data into a lower-dimensional space, preserving the relative distances between points.",1
+atom,statistics,the gibbs sampling is a markov chain monte carlo (mcmc) method used for sampling from complex distributions.,1
+atom,statistics,the chi-squared test is used to test for independence in a contingency table.,1
+atom,statistics,the log-likelihood is a measure of the goodness of fit for statistical models.,1
+atom,statistics,the anderson-darling test is a statistical test used to determine whether a sample of data came from a particular distribution.,1
+atom,statistics,the power of a test is the probability of rejecting the null hypothesis when it is false.,1
+atom,statistics,the gradient boosting is a method that combines weak prediction models to create a stronger model.,1
+atom,statistics,the copula is a statistical model that allows to model the dependency structure of multivariate data.,1
+atom,statistics,the decision tree can be used for both classification and regression tasks.,1
+atom,statistics,the principal component analysis (pca) is used to identify patterns in multivariate data.,1
+atom,statistics,the state-space model is a family of models used for time series and other dynamic systems that describe the evolution of the system over time.,1
+atom,statistics,the multivariate adaptive regression splines (mars) is a nonparametric method used to model non-linear relationships between variables.,1
+atom,statistics,the stochastic gradient descent (sgd) is a optimization algorithm used  in training machine learning models.,1
+atom,statistics,the random forest is an ensemble method that uses multiple decision trees to improve the performance of a model.,1
+atom,statistics,the k-means algorithm is a method used for clustering data in machine learning.,1
+atom,statistics,the area under precision-recall curve is a performance metric for binary classifiers.,1
+atom,statistics,the support vector machine (svm) is a method used for classification and regression in machine learning.,1
+atom,statistics,a chi-squared test can be used to test the independence of two categorical variables.,1
+atom,statistics,"the mutual information (mi) is a measure of the dependence between two variables in a dataset, often used in feature selection.",1
+atom,statistics,the cochran's q test is a statistical test used to determine whether k related samples have the same proportion of successes.,1
+atom,statistics,the coefficient of determination (r^2) is used to measure the strength of the linear relationship.,1
+atom,statistics,the generalized additive model (gam) is a method used to model non-linear relationships between response variables and predictor variables in a dataset.,1
+atom,statistics,the variational inference is a method used to approximate a complex posterior distribution in bayesian inference.,1
+atom,statistics,the poisson distribution is used to model the number of events occurring in a fixed interval of time.,1
+atom,statistics,the random forest is a method used for classification and regression in machine learning.,1
+atom,statistics,the gini impurity is a measure of the homogeneity of the samples in a dataset used in decision trees algorithm,1
+atom,statistics,the least squares method is a technique used in linear regression to find the line of best fit.,1
+atom,statistics,the chi-squared distribution is also used in the chi-squared test for independence.,1
+atom,statistics,the wilcoxon rank-sum test is a non-parametric alternative to the two-sample t-test.,1
+atom,statistics,the slice sampling is a variation of the mcmc method that avoids the need to evaluate the gradient of the target distribution.,1
+atom,statistics,the standard deviation is a measure of spread.,1
+atom,statistics,the wilcoxon signed-rank test is a non-parametric alternative to the paired-samples t-test.,1
+atom,statistics,the garch  model is a time series model used to help model volatility in financial time series.,1
+atom,statistics,the jackknife method is a technique used to estimate the sampling distribution of an estimator.,1
+atom,statistics,the quade test is a statistical test used to compare the medians of two or more groups.,1
+atom,statistics,the principal-component analysis (pca) is a technique used to extract important features from high-dimensional data sets.,1
+atom,statistics,the spearman rank correlation coefficient (ρ) is a measure of monotonic association between two variables.,1
+atom,statistics,the anova test is used to compare means of three or more groups.,1
+atom,statistics,the heisenberg model is a quantum mechanical model used to describe the behavior of interacting spins in a magnetic material.,1
+atom,statistics,the heat map is a graphical tool used to display the density of observations or the association between two variables in a dataset.,1
+atom,statistics,the hidden markov model (hmm) is a statistical model used to model sequences of observations that depend on underlying hidden states.,1
+atom,statistics,"the law of large numbers states that as the sample size increases, the sample mean will converge to the population mean.",1
+atom,statistics,"the auc-roc (area under the receiver operating characteristic curve) is a measure of a binary classifier performance, it measures separability",1
+atom,statistics,the normal distribution is a symmetric bell-shaped curve.,1
+atom,statistics,the mcnemar's test is a statistical test used to compare the proportions of a binary trait in two related samples.,1
+atom,statistics,the roc curve (receiver operating characteristic) is a graphical tool used to evaluate the performance of a binary classifier.,1
+atom,statistics,the dropout regularization is a method used to reduce overfitting in deep learning by randomly dropping out neurons during training.,1
+atom,statistics,the monte carlo method is a technique used to generate random samples from a probability distribution. ,1
+atom,statistics,the median is a robust measure of central tendency that is not affected by outliers.,1
+atom,statistics,"the histogram is a graphical tool used to display the distribution of a dataset, showing the frequency of observations within different bins or intervals.",1
+atom,statistics,"the decision tree is a graphical representation of a decision-making process, showing the choices and their corresponding outcomes.",1
+atom,statistics,the z-score is used to standardize a value.,1
+atom,statistics,the information gain (ig) is a measure of the reduction in impurity achieved by splitting the dataset on a particular feature in decision tree based algorithms.,1
+atom,statistics,the g-test is a statistical test for goodness of fit.,1
+atom,statistics,the hamiltonian monte carlo is a technique used in optimization and sampling problems in statistics and machine learning.,1
+atom,statistics,"the laplace approximation is a method used to approximate a complex distribution with a simpler one, often used in bayesian inference",1
+atom,statistics,the survival analysis is a statistical framework used to model time-to-event data and the dependence of the hazard rate on covariates.,1
+atom,statistics,the wilcoxon-mann-whitney test is a non-parametric test used to compare two independent samples.,1
+atom,statistics,the naive bayes is a simple probabilistic classifier based on bayes theorem.,1
+atom,statistics,confidence intervals provide a range of plausible values for a population parameter.,1
+atom,statistics,"the box plot is a graphical tool used to display the distribution of a dataset, including measures of central tendency and spread.",1
+atom,statistics,the gaussian process is a probabilistic model that can be used for both regression and classification tasks.,1
+atom,statistics,the coefficient of variation (cv) is used to compare the relative variability of different datasets.,1
+atom,statistics,the markov chain monte carlo (mcmc) method is a technique used for sampling from complex distributions.,1
+atom,statistics,the generalized linear model (glm) is a method used to model data with non-normal distributions.,1
+atom,statistics,the l1 and l2 regularization are methods used to prevent overfitting in linear regression and other models.,1
+atom,statistics,"the f1-score is a balance metric combining precision and recall, used to evaluate the performance of a classifier",1
+atom,statistics,the maximum likelihood method is a technique used in estimation to find the parameters that make the observed data most probable.,1
+atom,statistics,the ising model is a statistical physics model that is used to model the behavior of interacting spins in a magnetic material.,1
+atom,statistics,the metropolis-hastings algorithm is a mcmc method used for sampling from complex distributions.,1
+atom,statistics,the factor analysis of mixed data (famd) is a method used to analyze mixed data types including both numerical and categorical variables.,1
+atom,statistics,the coefficient of correlation (r) is a measure of linear association between two variables.,1
+atom,statistics,a p-value of 0.05 is commonly used as a threshold for statistical significance.,1
+atom,statistics,the jonckheere-terpstra test is a statistical test used to detect a monotonic trend in the proportion of a binary outcome.,1
+atom,statistics,the kendall rank correlation coefficient (τ) is a measure of ordinal association between two variables.,1
+atom,statistics,correlation does not imply causation.,1
+atom,statistics,hypothesis testing is used to make inferences about population parameters based on sample data.,1
+atom,statistics,the expectation-maximization (em) algorithm is a method used for maximum likelihood estimation in latent variable models.,1
+atom,statistics,the f-distribution is used in the f-test for equality of variances.,1
+atom,statistics,the precision-recall curve is a graphical tool used to evaluate the trade-off between precision and recall for a binary classifier.,1
+atom,statistics,the kolmogorov-smirnov test is a non-parametric test used to compare two data samples.,1
+atom,statistics,the kruskal-wallis test is a non-parametric alternative to the one-way anova.,1
+atom,statistics,the bic (bayesian information criteria) and aic (akaike information criteria) are measures of the relative quality of statistical models.,1
+atom,statistics,the bayesian network is a graphical model that represents a probabilistic relationship between variables and allow reasoning under uncertainty.,1
+atom,statistics,the root mean squared error (rmse) and the mean absolute error (mae) are measure of the difference between the predicted and actual values in a regression task.,1
+atom,statistics,the gradient boosting method is a technique used to improve the performance of decision trees.,1
+atom,statistics,the t-distribution is used in the t-test for comparing means.,1
+atom,statistics,the interquartile range (iqr) is used to measure the spread of data.,1
+atom,statistics,a type i error occurs when a null hypothesis is rejected when it is actually true.,1
+atom,statistics,linear regression is used to model the relationship between two variables.,1
+atom,statistics,the binomial distribution is used to model the probability of successes in a fixed number of bernoulli trials.,1
+atom,statistics,the principal component analysis (pca) is a method used for reducing the dimensionality of a dataset.,1
+atom,statistics,the chi-squared distribution is used in the chi-squared test for goodness of fit.,1
+atom,statistics,the q-q plot is a graphical tool used to compare the distribution of a dataset to a theoretical distribution.,1
